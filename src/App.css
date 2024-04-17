@@ -24,13 +24,13 @@ p {
 
 .user {
     padding: 8px;
-    display: flex;
-    margin-bottom: 4px;
+    /*display: flex;*/
 }
 
 .user-avatar {
-    margin: auto;
+    margin: 0 auto 8px;
     text-align: center;
+    margin-bottom: 4px;
 }
 
 .user-avatar img {
