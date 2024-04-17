@@ -1,38 +1,59 @@
-.App {
-  text-align: center;
+* {
+    box-sizing: border-box;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+body {
+    background-color: white;
+    box-sizing: border-box;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+p {
+    margin: 0;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+
+.card-container {
+    padding: 8px;
 }
 
-.App-link {
-  color: #61dafb;
+.card {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 0 12px 0px rgba(0, 0, 0, 0.1);
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.user {
+    padding: 8px;
+    display: flex;
+    margin-bottom: 4px;
+}
+
+.user-avatar {
+    margin: auto;
+    text-align: center;
+}
+
+.user-avatar img {
+    border: 1px solid #c16969;
+    border-radius: 50%;
+    height: 72px;
+    width: 72px;
+}
+
+.user-avatar p {
+    background-color: #0089ff;
+    padding: 4px 10px;
+    margin: 0;
+    color: white;
+    border-radius: 10px;
+    font-size: 12px;
+}
+
+.contact {
+    background-color: rgba(0, 137, 255, 0.19);
+    text-align: center;
+    padding: 4px 0;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+
 }
