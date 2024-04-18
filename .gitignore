@@ -2,6 +2,8 @@
 
 # dependencies
 /node_modules
+/json-converter/node_modules
+/json-converter/input
 /.pnp
 .pnp.js
 
