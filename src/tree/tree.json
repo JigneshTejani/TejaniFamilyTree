@@ -1,0 +1,122 @@
+[
+  {
+    "number": "",
+    "unique_id": "1",
+    "name": "Tejani Family",
+    "father": "",
+    "spouse": "",
+    "late": ""
+  },
+  {
+    "number": "",
+    "unique_id": "2",
+    "name": "Ramji",
+    "father": "Tejani Family",
+    "spouse": "",
+    "late": "y"
+  },
+  {
+    "number": "",
+    "unique_id": "3",
+    "name": "Jadav Ramji",
+    "father": "Ramji",
+    "spouse": "",
+    "late": "y"
+  },
+  {
+    "number": "",
+    "unique_id": "4",
+    "name": "Makod Jadav",
+    "father": "Jadav Ramji",
+    "spouse": "Daval",
+    "late": ""
+  },
+  {
+    "number": "9924375370",
+    "unique_id": "5",
+    "name": "Gordhan Makod",
+    "father": "Makod Jadav",
+    "spouse": "Ranjan",
+    "late": ""
+  },
+  {
+    "number": "9925354877",
+    "unique_id": "6",
+    "name": "Pravin Makod",
+    "father": "Makod Jadav",
+    "spouse": "Manju",
+    "late": ""
+  },
+  {
+    "number": "",
+    "unique_id": "7",
+    "name": "Bharat Makod",
+    "father": "Makod Jadav",
+    "spouse": "Jagruti",
+    "late": "y"
+  },
+  {
+    "number": "9998959549",
+    "unique_id": "8",
+    "name": "Tushar Gordhan",
+    "father": "Gordhan Makod",
+    "spouse": "Hetal",
+    "late": ""
+  },
+  {
+    "number": "9574357964",
+    "unique_id": "9",
+    "name": "Jignesh Gordhan",
+    "father": "Gordhan Makod",
+    "spouse": "Bhumi",
+    "late": ""
+  },
+  {
+    "number": "",
+    "unique_id": "10",
+    "name": "Rohit Pravin",
+    "father": "Pravin Makod",
+    "spouse": "Krishna",
+    "late": ""
+  },
+  {
+    "number": "",
+    "unique_id": "11",
+    "name": "Ridham Pravin",
+    "father": "Pravin Makod",
+    "spouse": "",
+    "late": ""
+  },
+  {
+    "number": "9726281761",
+    "unique_id": "12",
+    "name": "Rajan Bharat",
+    "father": "Bharat Makod",
+    "spouse": "",
+    "late": ""
+  },
+  {
+    "number": "",
+    "unique_id": "13",
+    "name": "Rutul Bharat",
+    "father": "Bharat Makod",
+    "spouse": "",
+    "late": ""
+  },
+  {
+    "number": "",
+    "unique_id": "14",
+    "name": "Dhruvaansh Tushar",
+    "father": "Tushar Gordhan",
+    "spouse": "",
+    "late": ""
+  },
+  {
+    "number": "",
+    "unique_id": "15",
+    "name": "Praj Rohit",
+    "father": "Rohit Pravin",
+    "spouse": "",
+    "late": ""
+  }
+]
