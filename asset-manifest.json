@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/TejaniFamilyTree/static/css/main.82a29e12.css",
-    "main.js": "/TejaniFamilyTree/static/js/main.9e01d531.js",
+    "main.js": "/TejaniFamilyTree/static/js/main.2a0d17e1.js",
     "static/js/453.05242a5f.chunk.js": "/TejaniFamilyTree/static/js/453.05242a5f.chunk.js",
     "index.html": "/TejaniFamilyTree/index.html",
     "main.82a29e12.css.map": "/TejaniFamilyTree/static/css/main.82a29e12.css.map",
-    "main.9e01d531.js.map": "/TejaniFamilyTree/static/js/main.9e01d531.js.map",
+    "main.2a0d17e1.js.map": "/TejaniFamilyTree/static/js/main.2a0d17e1.js.map",
     "453.05242a5f.chunk.js.map": "/TejaniFamilyTree/static/js/453.05242a5f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.82a29e12.css",
-    "static/js/main.9e01d531.js"
+    "static/js/main.2a0d17e1.js"
   ]
 }
