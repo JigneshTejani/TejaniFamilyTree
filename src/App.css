@@ -31,6 +31,7 @@ p {
     margin: 0 auto 8px;
     text-align: center;
     margin-bottom: 4px;
+    text-transform: capitalize;
 }
 
 .user-avatar img {
@@ -41,12 +42,10 @@ p {
 }
 
 .user-avatar p {
-    background-color: #0089ff;
-    padding: 4px 10px;
     margin: 0;
-    color: white;
     border-radius: 10px;
-    font-size: 14px;
+    font-size: 18px;
+    font-weight: bolder;
 }
 
 .contact {

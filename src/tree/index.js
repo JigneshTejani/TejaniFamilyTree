@@ -17,10 +17,10 @@ export default function OrgChartTree() {
                 allowForeignObjects={true}
                 translate={translate}
                 dimensions={dimensions} //control the size of the tree layout
-                separation={{siblings: 1.60, nonSiblings: 1.60}}
-                nodeSize={{x: 200, y: 300}}
+                separation={{siblings: 1, nonSiblings: 1.60}}
+                nodeSize={{x: 160, y: 300}}
                 renderCustomNodeElement={(treeData) => <RenderCard data={{...treeData}}/>}
-                initialDepth={1} // for visible first one row in tree
+                initialDepth={8} // for visible first one row in tree
                 data={familyTree}
             />
         </div>
@@ -30,16 +30,15 @@ export default function OrgChartTree() {
 const RenderCard = React.memo(({data: {nodeDatum, toggleNode, foreignObjectProps = {}}}) => {
     const data = nodeDatum?.data
 
-    const id = data?.unique_id
-    const name = data?.name?.split(" ")?.[0]
-    const spouse = data?.spouse?.split(" ")?.[0]
+    const name = data?.name_guj?.split(" ")?.[0]
+    const spouse = data?.spouse_guj?.split(" ")?.[0]
     const number = data?.number
     return (<React.Fragment>
         <foreignObject
             {...foreignObjectProps}
-            width="200"
+            width="160"
             height="300"
-            x="-100"
+            x="-80"
             y="-100"
         >
             <div className="card-container" onClick={toggleNode}>
@@ -47,12 +46,12 @@ const RenderCard = React.memo(({data: {nodeDatum, toggleNode, foreignObjectProps
                     <div className="user">
                         <div className='user-avatar'>
                             <img src="https://static.vecteezy.com/system/resources/previews/009/397/835/non_2x/man-avatar-clipart-illustration-free-png.png"/>
-                            <p>{(id !== '1') ? `${name} Bhai` : data?.name}</p>
+                            <p>{(data.name === "tejaniparivar tejaniparivar") ? data?.name_guj : name}</p>
                         </div>
 
                         {spouse && <div className='user-avatar'>
                             <img src="https://static.vecteezy.com/system/resources/thumbnails/018/787/001/small/avatar-job-business-woman-flat-portrait-of-woman-png.png"/>
-                            <p>{spouse} Ben</p>
+                            <p>{spouse}</p>
                         </div>}
                     </div>
                     {number && <div className="contact"><p>{number}</p></div>}

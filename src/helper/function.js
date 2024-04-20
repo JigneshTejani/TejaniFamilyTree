@@ -31,7 +31,7 @@ export const getJsonFromUniqueArray = () => {
 }
 
 export const getConvertedTreeData = () => {
-    const data = [{"name": "tejaniparivar tejaniparivar"}]
+    const data = [{name: "tejaniparivar tejaniparivar", name_guj: "તેજાણી પરિવાર"}]
     for (const dataKey in newTree) {
         data.push(...newTree[dataKey])
     }
