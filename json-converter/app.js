@@ -12,7 +12,7 @@ app.use(bodyParser.json());
 // load index file to upload file on http://localhost:3000/
 app.get('/', function (req, res) {
     const result = excelToJson({
-        sourceFile: __dirname + '/jiva.xlsx',
+        sourceFile: __dirname + '/harji.xlsx',
         header: {rows: 1}, columnToKey: {
             A: '1', B: '2', C: '3', D: '4', E: '5',F: '6', G: '7', H: '8', I: '9'
         }
