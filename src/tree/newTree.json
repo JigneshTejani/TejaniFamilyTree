@@ -1,0 +1,2903 @@
+{
+  "Ramji Dada": [
+  {
+    "name": "ramjibhai tejaniparivar",
+    "name_guj": "રામજીભાઈ તેજાનીપરિવારભાઈ",
+    "father": "tejaniparivar tejaniparivar"
+  },
+  {
+    "name": "jadavbhai ramjibhai",
+    "name_guj": "જાદવભાઈ રામજીભાઈ",
+    "father": "ramjibhai tejaniparivar",
+    "spouse": "santokben"
+  },
+  {
+    "name": "makodbhai jadavbhai",
+    "name_guj": "મકોડભાઈ જાદવભાઈ",
+    "father": "jadavbhai ramjibhai",
+    "spouse": "davalben",
+    "city": "Ratanpar",
+    "occupation": "Retired"
+  },
+  {
+    "name": "gordhanbhai makodbhai",
+    "name_guj": "ગોરધનભાઈ મકોડભાઈ",
+    "father": "makodbhai jadavbhai",
+    "spouse": "ranjanben",
+    "city": "Ratanpar",
+    "occupation": "Farming"
+  },
+  {
+    "name": "tusharbhai gordhanbhai",
+    "name_guj": "તુષારભાઈ ગોરધનભાઈ",
+    "father": "gordhanbhai makodbhai",
+    "spouse": "hetalben",
+    "city": "Surat",
+    "occupation": "Textile Manager"
+  },
+  {
+    "name": "dhruvaanshbhai tusharbhai",
+    "name_guj": "ધ્રુવંશભાઈ તુષારભાઈ",
+    "father": "tusharbhai gordhanbhai",
+    "city": "Surat"
+  },
+  {
+    "name": "jigneshbhai gordhanbhai",
+    "name_guj": "જીજ્ઞેશભાઈ ગોરધનભાઈ",
+    "father": "gordhanbhai makodbhai",
+    "spouse": "bhumiben",
+    "city": "Surat",
+    "occupation": "Computer Engineer"
+  },
+  {
+    "name": "pravinbhai makodbhai",
+    "name_guj": "પ્રવિણભાઈ મકોડભાઈ",
+    "father": "makodbhai jadavbhai",
+    "city": "Surat",
+    "occupation": "Diamond"
+  },
+  {
+    "name": "rohitbhai pravinbhai",
+    "name_guj": "રોહિતભાઈ પ્રવિણભાઈ",
+    "father": "pravinbhai makodbhai",
+    "spouse": "manjuben",
+    "city": "Surat",
+    "occupation": "Diamond"
+  },
+  {
+    "name": "prajbhai rohitbhai",
+    "name_guj": "પ્રજાભાઈ રોહિતભાઈ",
+    "father": "rohitbhai pravinbhai",
+    "spouse": "krishnaben",
+    "city": "Surat"
+  },
+  {
+    "name": "ridhambhai pravinbhai",
+    "name_guj": "રિધમભાઈ પ્રવિણભાઈ",
+    "father": "pravinbhai makodbhai",
+    "city": "Surat",
+    "occupation": "Computer Engineer"
+  },
+  {
+    "name": "bharatbhai makodbhai",
+    "name_guj": "ભરતભાઈ મકોડભાઈ",
+    "father": "makodbhai jadavbhai",
+    "spouse": "jagrutiben"
+  },
+  {
+    "name": "rajanbhai bharatbhai",
+    "name_guj": "રાજનભાઈ ભરતભાઈ",
+    "father": "bharatbhai makodbhai",
+    "city": "Surat",
+    "occupation": "Computer Engineer"
+  },
+  {
+    "name": "rutulbhai bharatbhai",
+    "name_guj": "રૂતુલભાઈ ભરતભાઈ",
+    "father": "bharatbhai makodbhai",
+    "city": "Ottawa, Canada"
+  },
+  {
+    "name": "jinabhai ramjibhai",
+    "name_guj": "જીણાભાઈ રામજીભાઈ",
+    "father": "ramjibhai tejaniparivar"
+  },
+  {
+    "name": "mohanbhai jinabhai",
+    "name_guj": "મોહનભાઈ જીણાભાઈ",
+    "father": "jinabhai ramjibhai",
+    "spouse": "parvatiben"
+  },
+  {
+    "name": "vashrambhai mohanbhai",
+    "name_guj": "વશરામભાઈ મોહનભાઈ",
+    "father": "mohanbhai jinabhai",
+    "spouse": "kantuben",
+    "city": "Ratanpar",
+    "occupation": "Retired"
+  },
+  {
+    "name": "hareshbhai vashrambhai",
+    "name_guj": "હરેશભાઈ વશરામભાઈ",
+    "father": "vashrambhai mohanbhai",
+    "spouse": "rekhaben",
+    "city": "Ratanpar",
+    "occupation": "Farming"
+  },
+  {
+    "name": "binjalbhai hareshbhai",
+    "name_guj": "બિંજલભાઈ હરેશભાઈ",
+    "father": "hareshbhai vashrambhai",
+    "city": "Ratanpar"
+  },
+  {
+    "name": "krupalibhai hareshbhai",
+    "name_guj": "કૃપાલીભાઈ હરેશભાઈ",
+    "father": "hareshbhai vashrambhai",
+    "city": "Ratanpar"
+  },
+  {
+    "name": "jenishbhai hareshbhai",
+    "name_guj": "જેનિશભાઈ હરેશભાઈ",
+    "father": "hareshbhai vashrambhai",
+    "city": "Surat",
+    "occupation": "Export"
+  },
+  {
+    "name": "rajubhai vashrambhai",
+    "name_guj": "રાજુભાઈ વશરામભાઈ",
+    "father": "vashrambhai mohanbhai",
+    "spouse": "sonalben",
+    "city": "Ratanpar",
+    "occupation": "Textile"
+  },
+  {
+    "name": "krishabhai rajubhai",
+    "name_guj": "ક્રિશભાઈ રાજુભાઈ",
+    "father": "rajubhai vashrambhai",
+    "city": "Ratanpar"
+  },
+  {
+    "name": "tilakbhai rajubhai",
+    "name_guj": "તિલકભાઈ રાજુભાઈ",
+    "father": "rajubhai vashrambhai",
+    "city": "Ratanpar",
+    "occupation": "12th Std"
+  }
+],
+  "Kanji Dada": [
+    {
+      "name": "kanjibhai tejaniparivar",
+      "name_guj": "કાનજીભાઈ તેજાનીપરિવારભાઈ",
+      "father": "tejaniparivar tejaniparivar"
+    },
+    {
+      "name": "bhagwanbhai kanjibhai",
+      "name_guj": "ભગવાનભાઈ કાનજીભાઈ",
+      "father": "kanjibhai tejaniparivar"
+    },
+    {
+      "name": "ranchhodbhai bhagwanbhai",
+      "name_guj": "રણછોડભાઈ ભગવાનભાઈ",
+      "father": "bhagwanbhai kanjibhai"
+    },
+    {
+      "name": "lavjibhai ranchhodbhai",
+      "name_guj": "લવજીભાઈ રણછોડભાઈ",
+      "father": "ranchhodbhai bhagwanbhai"
+    },
+    {
+      "name": "vallabhbhai lavjibhai",
+      "name_guj": "વલ્લભભાઈ લવજીભાઈ",
+      "father": "lavjibhai ranchhodbhai"
+    },
+    {
+      "name": "rajubhai vallabhbhai",
+      "name_guj": "રાજુભાઈ વલ્લભભાઈ",
+      "father": "vallabhbhai lavjibhai"
+    },
+    {
+      "name": "ghanshyambhai lavjibhai",
+      "name_guj": "ઘનશ્યામભાઈ લવજીભાઈ",
+      "father": "lavjibhai ranchhodbhai"
+    },
+    {
+      "name": "vijaybhai ghanshyambhai",
+      "name_guj": "વિજયભાઈ ઘનશ્યામભાઈ",
+      "father": "ghanshyambhai lavjibhai"
+    },
+    {
+      "name": "kalpeshbhai ghanshyambhai",
+      "name_guj": "કલ્પેશભાઈ ઘનશ્યામભાઈ",
+      "father": "ghanshyambhai lavjibhai"
+    },
+    {
+      "name": "jaysukhbhai lavjibhai",
+      "name_guj": "જયસુખભાઈ લવજીભાઈ",
+      "father": "lavjibhai ranchhodbhai"
+    },
+    {
+      "name": "mehulbhai jaysukhbhai",
+      "name_guj": "મેહુલભાઈ જયસુખભાઈ",
+      "father": "jaysukhbhai lavjibhai"
+    },
+    {
+      "name": "vishalbhai jaysukhbhai",
+      "name_guj": "વિશાલભાઈ જયસુખભાઈ",
+      "father": "jaysukhbhai lavjibhai"
+    },
+    {
+      "name": "harjibhai ranchhodbhai",
+      "name_guj": "હરજીભાઈ રણછોડભાઈ",
+      "father": "ranchhodbhai bhagwanbhai"
+    },
+    {
+      "name": "pareshbhai harjibhai",
+      "name_guj": "પરેશભાઈ હરજીભાઈ",
+      "father": "harjibhai ranchhodbhai"
+    },
+    {
+      "name": "laljibhai ranchhodbhai",
+      "name_guj": "લાલજીભાઈ રણછોડભાઈ",
+      "father": "ranchhodbhai bhagwanbhai"
+    },
+    {
+      "name": "jiteshbhai laljibhai",
+      "name_guj": "જીતેશભાઈ લાલજીભાઈ",
+      "father": "laljibhai ranchhodbhai"
+    },
+    {
+      "name": "miteshbhai jiteshbhai",
+      "name_guj": "મિતેશભાઈ જીતેશભાઈ",
+      "father": "jiteshbhai laljibhai"
+    },
+    {
+      "name": "ambabhai bhagwanbhai",
+      "name_guj": "આંબાભાઈ ભગવાનભાઈ",
+      "father": "bhagwanbhai kanjibhai"
+    },
+    {
+      "name": "dharamshibhai ambabhai",
+      "name_guj": "ધરમશીભાઈ આંબાભાઈ",
+      "father": "ambabhai bhagwanbhai"
+    },
+    {
+      "name": "jaysukhbhai dharamshibhai",
+      "name_guj": "જયસુખભાઈ ધરમશીભાઈ",
+      "father": "dharamshibhai ambabhai"
+    },
+    {
+      "name": "bharatbhai jaysukhbhai",
+      "name_guj": "ભરતભાઈ જયસુખભાઈ",
+      "father": "jaysukhbhai dharamshibhai"
+    },
+    {
+      "name": "darshanbhai jaysukhbhai",
+      "name_guj": "દર્શનભાઈ જયસુખભાઈ",
+      "father": "jaysukhbhai dharamshibhai"
+    },
+    {
+      "name": "jitubhai dharamshibhai",
+      "name_guj": "જીતુભાઈ ધરમશીભાઈ",
+      "father": "dharamshibhai ambabhai"
+    },
+    {
+      "name": "gopalbhai jitubhai",
+      "name_guj": "ગોપાલભાઈ જીતુભાઈ",
+      "father": "jitubhai dharamshibhai"
+    },
+    {
+      "name": "karamshibhai ambabhai",
+      "name_guj": "કરમશીભાઈ આંબાભાઈ",
+      "father": "ambabhai bhagwanbhai",
+      "spouse": "champaben"
+    },
+    {
+      "name": "sureshbhai karamshibhai",
+      "name_guj": "સુરેશભાઈ કરમશીભાઈ",
+      "father": "karamshibhai ambabhai",
+      "spouse": "bhavnaben"
+    },
+    {
+      "name": "nishantbhai sureshbhai",
+      "name_guj": "નિશાંતભાઈ સુરેશભાઈ",
+      "father": "sureshbhai karamshibhai"
+    },
+    {
+      "name": "rajubhai sureshbhai",
+      "name_guj": "રાજુભાઈ સુરેશભાઈ",
+      "father": "sureshbhai karamshibhai"
+    },
+    {
+      "name": "drashtibhai sureshbhai",
+      "name_guj": "દ્રષ્ટીભાઈ સુરેશભાઈ",
+      "father": "sureshbhai karamshibhai"
+    },
+    {
+      "name": "monabhai kanjibhai",
+      "name_guj": "મોનાભાઈ કાનજીભાઈ",
+      "father": "kanjibhai tejaniparivar"
+    },
+    {
+      "name": "trikambhai monabhai",
+      "name_guj": "ત્રિકમભાઈ મોનાભાઈ",
+      "father": "monabhai kanjibhai"
+    },
+    {
+      "name": "hirabhai trikambhai",
+      "name_guj": "હીરાભાઈ ત્રિકમભાઈ",
+      "father": "trikambhai monabhai"
+    },
+    {
+      "name": "popatbhai hirabhai",
+      "name_guj": "પોપટભાઈ હીરાભાઈ",
+      "father": "hirabhai trikambhai",
+      "spouse": "kanchanben"
+    },
+    {
+      "name": "bhimjibhai hirabhai",
+      "name_guj": "ભીમજીભાઈ હીરાભાઈ",
+      "father": "hirabhai trikambhai",
+      "spouse": "jayaben"
+    },
+    {
+      "name": "harjibhai trikambhai",
+      "name_guj": "હરજીભાઈ ત્રિકમભાઈ",
+      "father": "trikambhai monabhai",
+      "spouse": "lakshmiben"
+    },
+    {
+      "name": "nareshbhai harjibhai",
+      "name_guj": "નરેશભાઈ હરજીભાઈ",
+      "father": "harjibhai trikambhai",
+      "spouse": "sangitaben"
+    },
+    {
+      "name": "rajubhai harjibhai",
+      "name_guj": "રાજુભાઈ હરજીભાઈ",
+      "father": "harjibhai trikambhai",
+      "spouse": "geetaben"
+    },
+    {
+      "name": "devrajbhai trikambhai",
+      "name_guj": "દેવરાજભાઈ ત્રિકમભાઈ",
+      "father": "trikambhai monabhai",
+      "spouse": "hansaben"
+    },
+    {
+      "name": "ashvinbhai devrajbhai",
+      "name_guj": "અશ્વિનભાઈ દેવરાજભાઈ",
+      "father": "devrajbhai trikambhai",
+      "spouse": "sonalben"
+    },
+    {
+      "name": "umeshbhai devrajbhai",
+      "name_guj": "ઉમેશભાઈ દેવરાજભાઈ",
+      "father": "devrajbhai trikambhai"
+    }
+  ],
+  "Devji Dada": [
+    {
+      "name": "devjibhai tejaniparivar",
+      "father": "tejaniparivar tejaniparivar"
+    },
+    {
+      "name": "bhimjibhai devjibhai",
+      "father": "devjibhai tejaniparivar"
+    },
+    {
+      "name": "talshibhai bhimjibnhai",
+      "father": "bhimjibhai devjibhai"
+    },
+    {
+      "name": "vipulbhai talshibhai",
+      "father": "talshibhai bhimjibnhai"
+    },
+    {
+      "name": "hirenbhai talshibhai",
+      "father": "talshibhai bhimjibnhai"
+    },
+    {
+      "name": "kalubhai bhimjibhai",
+      "father": "bhimjibhai devjibhai"
+    },
+    {
+      "name": "kaushikbhai kalubhai",
+      "father": "kalubhai bhimjibhai"
+    },
+    {
+      "name": "ravibhai kalubhai",
+      "father": "kalubhai bhimjibhai"
+    }
+  ],
+  "Bhagwan Dada": [
+    {
+      "name": "Bhagwanbhai tejaniparivar",
+      "father": "tejaniparivar tejaniparivar"
+    },
+    {
+      "name": "Shamjibhai Bhagwanbhai",
+      "father": "Bhagwanbhai tejaniparivar"
+    },
+    {
+      "name": "Premjibhai Shamjibhai",
+      "father": "Shamjibhai Bhagwanbhai",
+      "spouse": "devkunvar ben"
+    },
+    {
+      "name": "Govindbhai Premjibhai",
+      "father": "Premjibhai Shamjibhai",
+      "spouse": "parvatiben",
+      "number": 9824292236,
+      "city": "Ratanpur",
+      "occupation": "Retire"
+    },
+    {
+      "name": "Shaileshbhai Govindbhai",
+      "father": "Govindbhai Premjibhai",
+      "spouse": "vanita ben",
+      "number": 7878139300,
+      "city": "Surat",
+      "occupation": "Textile"
+    },
+    {
+      "name": "Gunjan Shaileshbhai",
+      "father": "Shaileshbhai Govindbhai"
+    },
+    {
+      "name": "Umangee Shaileshbhai",
+      "father": "Shaileshbhai Govindbhai"
+    },
+    {
+      "name": "Akshay Govindbhai",
+      "father": "Govindbhai Premjibhai",
+      "spouse": "Hetalben",
+      "number": 9722129600,
+      "city": "Surat",
+      "occupation": "Textile"
+    },
+    {
+      "name": "Nagjibhai Premjibhai",
+      "father": "Premjibhai Shamjibhai",
+      "spouse": "champaben",
+      "number": 9904012354,
+      "city": "Ratanpur",
+      "occupation": "Retire"
+    },
+    {
+      "name": "Jayeshbhai Nagjibhai",
+      "father": "Nagjibhai Premjibhai",
+      "spouse": "reenaben",
+      "number": 9924046146,
+      "city": "Surat",
+      "occupation": "Diamond"
+    },
+    {
+      "name": "Rudra Jayeshbhai",
+      "father": "Jayeshbhai Nagjibhai"
+    },
+    {
+      "name": "Harvi Jayeshbhai",
+      "father": "Jayeshbhai Nagjibhai"
+    },
+    {
+      "name": "Chetan Nagjibhai",
+      "father": "Nagjibhai Premjibhai",
+      "spouse": "pinlaben",
+      "number": 9714477068,
+      "city": "Surat",
+      "occupation": "Diamond"
+    },
+    {
+      "name": "Hihar Chetan",
+      "father": "Chetan Nagjibhai"
+    },
+    {
+      "name": "Praj Chetan",
+      "father": "Chetan Nagjibhai"
+    },
+    {
+      "name": "Jivrajbhai Premjibhai",
+      "father": "Premjibhai Shamjibhai",
+      "spouse": "viruben",
+      "number": 9924476535,
+      "city": "Surat",
+      "occupation": "Retire"
+    },
+    {
+      "name": "Pinakbhai Jivrajbhai",
+      "father": "Jivrajbhai Premjibhai",
+      "spouse": "ankitaben",
+      "number": 9624869628,
+      "city": "Surat",
+      "occupation": "Textile"
+    },
+    {
+      "name": "Krishiv Pinakbhai",
+      "father": "Pinakbhai Jivrajbhai"
+    },
+    {
+      "name": "Ansh Pinakbhai",
+      "father": "Pinakbhai Jivrajbhai"
+    },
+    {
+      "name": "Dhirubhai Premjibhai",
+      "father": "Premjibhai Shamjibhai",
+      "spouse": "madhuben",
+      "number": 9904048279,
+      "city": "Surat",
+      "occupation": "Retire"
+    },
+    {
+      "name": "Hirenbhai Dhirubhai",
+      "father": "Dhirubhai Premjibhai",
+      "spouse": "mansiben",
+      "number": 9737221872,
+      "city": "Surat",
+      "occupation": "Textile"
+    },
+    {
+      "name": "Mahi Hirenbhai",
+      "father": "Hirenbhai Dhirubhai"
+    },
+    {
+      "name": "Jadavbhai Premjibhai",
+      "father": "Premjibhai Shamjibhai",
+      "spouse": "samjuben",
+      "number": 9924615943,
+      "city": "Surat",
+      "occupation": "Retire"
+    },
+    {
+      "name": "Vimalbhai Jadavbhai",
+      "father": "Jadavbhai Premjibhai",
+      "spouse": "rasilaben",
+      "number": 9624869880,
+      "city": "Surat",
+      "occupation": "Diamond"
+    },
+    {
+      "name": "Heni Vimalbhai",
+      "father": "Vimalbhai Jadavbhai"
+    },
+    {
+      "name": "Henil Vimalbhai",
+      "father": "Vimalbhai Jadavbhai"
+    },
+    {
+      "name": "Piyushbhai Jadavbhai",
+      "father": "Jadavbhai Premjibhai",
+      "spouse": "Hetalben",
+      "number": 9723857205,
+      "city": "Surat",
+      "occupation": "Textile"
+    },
+    {
+      "name": "Vrinda Piyushbhai",
+      "father": "Piyushbhai Jadavbhai"
+    },
+    {
+      "name": "Priyansh Piyushbhai",
+      "father": "Piyushbhai Jadavbhai"
+    },
+    {
+      "name": "Sumit Jadavbhai",
+      "father": "Jadavbhai Premjibhai",
+      "spouse": "ruchiben",
+      "number": 9723862886,
+      "city": "Surat",
+      "occupation": "Textile"
+    },
+    {
+      "name": "Mishti Sumit",
+      "father": "Sumit Jadavbhai"
+    },
+    {
+      "name": "Ravjibhai Bhagwanbhai",
+      "father": "Bhagwanbhai tejaniparivar"
+    },
+    {
+      "name": "Bhimjibhai Ravjibhai",
+      "father": "Ravjibhai Bhagwanbhai",
+      "spouse": "devkurben"
+    },
+    {
+      "name": "Lavjibhai Bhimjibhai",
+      "father": "Bhimjibhai Ravjibhai",
+      "spouse": "daxaben",
+      "number": 9909259278,
+      "city": "surat",
+      "occupation": "textile"
+    },
+    {
+      "name": "Ashishbhai Lavjibhai",
+      "father": "Lavjibhai Bhimjibhai",
+      "spouse": "mitaliben",
+      "city": "surat"
+    },
+    {
+      "name": "Hitakshu Ashishbhai",
+      "father": "Ashishbhai Lavjibhai"
+    },
+    {
+      "name": "Granthi Ashishbhai",
+      "father": "Ashishbhai Lavjibhai"
+    },
+    {
+      "name": "Dayabhai Bhimjibhai",
+      "father": "Bhimjibhai Ravjibhai",
+      "spouse": "champaben",
+      "number": 9925148562,
+      "city": "bhavnagar",
+      "occupation": "Diamond"
+    },
+    {
+      "name": "Vijaybhai Dayabhai",
+      "father": "Dayabhai Bhimjibhai",
+      "spouse": "rinkleben",
+      "number": 9067469561,
+      "city": "bhavnagar",
+      "occupation": "diamond"
+    },
+    {
+      "name": "Het Vijaybhai",
+      "father": "Vijaybhai Dayabhai"
+    },
+    {
+      "name": "Daksh Vijaybhai",
+      "father": "Vijaybhai Dayabhai"
+    },
+    {
+      "name": "Jivrajbhai Bhimjibhai",
+      "father": "Bhimjibhai Ravjibhai",
+      "spouse": "varshben",
+      "number": 9825487551,
+      "city": "surat",
+      "occupation": "diamond"
+    },
+    {
+      "name": "Krupal Jivrajbhai",
+      "father": "Jivrajbhai Bhimjibhai",
+      "number": 9512386688,
+      "city": "ahemdabad",
+      "occupation": "study"
+    },
+    {
+      "name": "Nilam Jivrajbhai",
+      "father": "Jivrajbhai Bhimjibhai"
+    },
+    {
+      "name": "Kanjibhai Bhimjibhai",
+      "father": "Bhimjibhai Ravjibhai",
+      "spouse": "sumitaben",
+      "number": 9925056552,
+      "city": "surat",
+      "occupation": "textile"
+    },
+    {
+      "name": "Dhruvin Kanjibhai",
+      "father": "Kanjibhai Bhimjibhai",
+      "number": 8758663238,
+      "city": "rajkot",
+      "occupation": "metal testing leb business"
+    },
+    {
+      "name": "Manthan Kanjibhai",
+      "father": "Kanjibhai Bhimjibhai",
+      "number": "437 7996552",
+      "city": "canada",
+      "occupation": "study"
+    },
+    {
+      "name": "Laljibhai Ravjibhai",
+      "father": "Ravjibhai Bhagwanbhai",
+      "spouse": "samjuben"
+    },
+    {
+      "name": "Vallabhbhai Laljibhai - 1",
+      "father": "Laljibhai Ravjibhai",
+      "spouse": "getaben",
+      "number": 9824887020,
+      "city": "surat",
+      "occupation": "diamond"
+    },
+    {
+      "name": "Vipulbhai Vallabhbhai",
+      "father": "Vallabhbhai Laljibhai - 1",
+      "spouse": "sonalben",
+      "number": 9558596868,
+      "city": "surat",
+      "occupation": "e commerce"
+    },
+    {
+      "name": "Kriva Vipulbhai",
+      "father": "Vipulbhai Vallabhbhai"
+    },
+    {
+      "name": "keyurbhai Laljibhai",
+      "father": "Laljibhai Ravjibhai",
+      "spouse": "JULEEBEN",
+      "number": 9714390681,
+      "city": "surat",
+      "occupation": "business trading of oil and gress"
+    },
+    {
+      "name": "Gordhanbhai Laljibhai",
+      "father": "Laljibhai Ravjibhai"
+    },
+    {
+      "name": "Sandipbhai Gordhanbhai",
+      "father": "Gordhanbhai Laljibhai",
+      "spouse": "krutiben",
+      "number": "343 998 2060",
+      "city": "canada",
+      "occupation": "job"
+    },
+    {
+      "name": "Sanjaybhai Laljibhai",
+      "father": "Laljibhai Ravjibhai",
+      "spouse": "dimpleben",
+      "number": 9824942243,
+      "city": "surat",
+      "occupation": "textile"
+    },
+    {
+      "name": "Krish Sanjaybhai",
+      "father": "Sanjaybhai Laljibhai"
+    },
+    {
+      "name": "Vrisha Sanjaybhai",
+      "father": "Sanjaybhai Laljibhai"
+    },
+    {
+      "name": "Trikambhai Ravjibhai",
+      "father": "Ravjibhai Bhagwanbhai",
+      "spouse": "shivben",
+      "city": "ratanpar"
+    },
+    {
+      "name": "Rameshbhai Trikambhai",
+      "father": "Trikambhai Ravjibhai",
+      "spouse": "hiraben",
+      "number": 9925056559,
+      "city": "ratnpur",
+      "occupation": "farmer"
+    },
+    {
+      "name": "Parth Rameshbhai",
+      "father": "Rameshbhai Trikambhai",
+      "number": 8156081908,
+      "city": "surat",
+      "occupation": "textile"
+    },
+    {
+      "name": "Krupali Rameshbhai",
+      "father": "Rameshbhai Trikambhai"
+    },
+    {
+      "name": "Ashokbhai Trikambhai",
+      "father": "Trikambhai Ravjibhai",
+      "spouse": "bhavuben",
+      "number": 9723481494,
+      "city": "botad",
+      "occupation": "diamond"
+    },
+    {
+      "name": "Julesh Ashokbhai",
+      "father": "Ashokbhai Trikambhai",
+      "number": 9913238325,
+      "city": "ahemdabad",
+      "occupation": "study"
+    },
+    {
+      "name": "Jinal Ashokbhai",
+      "father": "Ashokbhai Trikambhai"
+    },
+    {
+      "name": "Popatbhai Ravjibhai",
+      "father": "Ravjibhai Bhagwanbhai",
+      "spouse": "samjuben"
+    },
+    {
+      "name": "Dineshbhai Popatbhai",
+      "father": "Popatbhai Ravjibhai",
+      "spouse": "komal",
+      "number": 6353054509,
+      "city": "ratnpur",
+      "occupation": "farmer"
+    },
+    {
+      "name": "Riya Dineshbhai",
+      "father": "Dineshbhai Popatbhai"
+    },
+    {
+      "name": "Bhavya Dineshbhai",
+      "father": "Dineshbhai Popatbhai"
+    },
+    {
+      "name": "Mohanbhai Bhagwanbhai",
+      "father": "Bhagwanbhai tejaniparivar"
+    },
+    {
+      "name": "Savjibhai Mohanbhai",
+      "father": "Mohanbhai Bhagwanbhai",
+      "spouse": "Nanduben"
+    },
+    {
+      "name": "Rameshbhai Savjibhai",
+      "father": "Savjibhai Mohanbhai",
+      "spouse": "Pravinaben",
+      "number": 9714074855,
+      "city": "Surat",
+      "occupation": "Diamond"
+    },
+    {
+      "name": "Rajubhai Rameshbhai",
+      "father": "Rameshbhai Savjibhai",
+      "spouse": "Radhikaben",
+      "number": 9714353972,
+      "city": "Surat",
+      "occupation": "Diamond"
+    },
+    {
+      "name": "Krishiv Rajubhai",
+      "father": "Rajubhai Rameshbhai",
+      "city": "Surat"
+    },
+    {
+      "name": "Hetansh Rajubhai",
+      "father": "Rajubhai Rameshbhai",
+      "city": "Surat"
+    },
+    {
+      "name": "Tejas Rameshbhai",
+      "father": "Rameshbhai Savjibhai",
+      "spouse": "Bhavitaben",
+      "number": 9909099357,
+      "city": "Surat",
+      "occupation": "Fire and safety"
+    },
+    {
+      "name": "Ghanshyambhai Savjibhai",
+      "father": "Savjibhai Mohanbhai",
+      "spouse": "Nitaben",
+      "number": 9925969658,
+      "city": "Bhavnagar",
+      "occupation": "Diamond broker"
+    },
+    {
+      "name": "Prince Ghanshyambhai",
+      "father": "Ghanshyambhai Savjibhai",
+      "number": 12269615604,
+      "city": "Canada",
+      "occupation": "Study"
+    },
+    {
+      "name": "Dinal Ghanshyambhai",
+      "father": "Ghanshyambhai Savjibhai",
+      "city": "Bhavngar"
+    },
+    {
+      "name": "Kalyanbhai Mohanbhai",
+      "father": "Mohanbhai Bhagwanbhai",
+      "spouse": "Kantuben",
+      "number": 9904365751,
+      "city": "Ratanpar"
+    },
+    {
+      "name": "Hareshbhai Kalyanbhai",
+      "father": "Kalyanbhai Mohanbhai",
+      "spouse": "Labhubhai",
+      "number": 9723952927,
+      "city": "Surat",
+      "occupation": "Diamond"
+    },
+    {
+      "name": "Smit Hareshbhai",
+      "father": "Hareshbhai Kalyanbhai",
+      "number": 8866221338,
+      "city": "Surat",
+      "occupation": "Importer e comm goods"
+    },
+    {
+      "name": "Rutu Hareshbhai",
+      "father": "Hareshbhai Kalyanbhai",
+      "city": "Surat",
+      "occupation": "Study"
+    },
+    {
+      "name": "Govindbhai Mohanbhai",
+      "father": "Mohanbhai Bhagwanbhai",
+      "spouse": "Shantuben",
+      "number": 7567608121,
+      "city": "Ratanpar"
+    },
+    {
+      "name": "Bharatbhai Govindbhai",
+      "father": "Govindbhai Mohanbhai",
+      "spouse": "Labhuben",
+      "number": 9925160799,
+      "city": "Surat",
+      "occupation": "Diamond broker"
+    },
+    {
+      "name": "Dhruval Bharatbhai",
+      "father": "Bharatbhai Govindbhai",
+      "spouse": "Juleeben",
+      "number": 8828047743,
+      "city": "Mumbai",
+      "occupation": "Diamond broker"
+    },
+    {
+      "name": "Pratiksha Bharatbhai",
+      "father": "Bharatbhai Govindbhai",
+      "city": "Surat"
+    },
+    {
+      "name": "Ghanshyambhai Govindbhai",
+      "father": "Govindbhai Mohanbhai",
+      "spouse": "Hetalben",
+      "number": 9824899801,
+      "city": "Baroda"
+    },
+    {
+      "name": "Divy Ghanshyambhai",
+      "father": "Ghanshyambhai Govindbhai",
+      "city": "Baroda",
+      "occupation": "Professor"
+    },
+    {
+      "name": "Naitri Ghanshyambhai",
+      "father": "Ghanshyambhai Govindbhai",
+      "city": "Baroda"
+    }
+  ],
+  "Bhavan Dada": [
+    {
+      "name": "Bhavanbhai tejaniparivar",
+      "father": "tejaniparivar tejaniparivar",
+      "spouse": "Jiviben"
+    },
+    {
+      "name": "Laljibhai Bhavanbhai",
+      "father": "Bhavanbhai tejaniparivar",
+      "spouse": "Putaliben"
+    },
+    {
+      "name": "savjibhai Laljibhai",
+      "father": "Laljibhai Bhavanbhai",
+      "spouse": "Anjuben"
+    },
+    {
+      "name": "Ghanshyambhai savjibhai",
+      "father": "savjibhai Laljibhai",
+      "spouse": "Parbhaben",
+      "number": 9904367368,
+      "city": "Ratanpar",
+      "occupation": "Farmer"
+    },
+    {
+      "name": "Sandipbhai Ghanshyambhai",
+      "father": "Ghanshyambhai savjibhai",
+      "spouse": "Dipikaben",
+      "number": 9924867555,
+      "city": "Surat",
+      "occupation": "Embroidery"
+    },
+    {
+      "name": "Kavya Sandipbhai",
+      "father": "Sandipbhai Ghanshyambhai",
+      "city": "Surat",
+      "occupation": "Student",
+      "photo": "`"
+    },
+    {
+      "name": "Aarav Sandipbhai",
+      "father": "Sandipbhai Ghanshyambhai",
+      "city": "Surat",
+      "occupation": "Student"
+    },
+    {
+      "name": "Bhaveshbhai Ghanshyambhai",
+      "father": "Ghanshyambhai savjibhai",
+      "spouse": "Kajalben",
+      "number": 992476755,
+      "city": "Surat",
+      "occupation": "Embroidery"
+    },
+    {
+      "name": "Mishry Bhaveshbhai",
+      "father": "Bhaveshbhai Ghanshyambhai",
+      "city": "Surat",
+      "occupation": "Student"
+    },
+    {
+      "name": "Jiyan Bhaveshbhai",
+      "father": "Bhaveshbhai Ghanshyambhai",
+      "city": "Surat",
+      "occupation": "Student"
+    },
+    {
+      "name": "Sanjaybhai Ghanshyambhai",
+      "father": "Ghanshyambhai savjibhai",
+      "number": 9723767555,
+      "city": "Surat",
+      "occupation": "Gold"
+    },
+    {
+      "name": "Bhimjibhai savjibhai",
+      "father": "savjibhai Laljibhai",
+      "spouse": "Hansaben",
+      "city": "Surat",
+      "occupation": "Embroidery"
+    },
+    {
+      "name": "Jayeshbhai Bhimjibhai",
+      "father": "Bhimjibhai savjibhai",
+      "spouse": "Jigishaben",
+      "number": 8140331560,
+      "city": "Surat",
+      "occupation": "Diamond"
+    },
+    {
+      "name": "Ananya Jayeshbhai",
+      "father": "Jayeshbhai Bhimjibhai",
+      "city": "Surat",
+      "occupation": "Student"
+    },
+    {
+      "name": "Dhavalbhai Bhimjibhai",
+      "father": "Bhimjibhai savjibhai",
+      "spouse": "Charmiben",
+      "number": 9574278360,
+      "city": "Surat",
+      "occupation": "Embroidery"
+    },
+    {
+      "name": "Devik Dhavalbhai",
+      "father": "Dhavalbhai Bhimjibhai",
+      "city": "Surat",
+      "occupation": "Student"
+    },
+    {
+      "name": "Kiranbhai Bhimjibhai",
+      "father": "Bhimjibhai savjibhai",
+      "number": 9033116596,
+      "city": "Surat",
+      "occupation": "Diamond"
+    },
+    {
+      "name": "Kalubhai savjibhai",
+      "father": "savjibhai Laljibhai",
+      "spouse": "Bhagavatiben"
+    },
+    {
+      "name": "Laxmanbhai Laljibhai",
+      "father": "Laljibhai Bhavanbhai",
+      "spouse": "Anjuben"
+    },
+    {
+      "name": "Jerajbhai Laxmanbhai",
+      "father": "Laxmanbhai Laljibhai",
+      "spouse": "Kundanben",
+      "number": 8490069209,
+      "city": "Surat",
+      "occupation": "Retire"
+    },
+    {
+      "name": "Shefali Jerajbhai",
+      "father": "Jerajbhai Laxmanbhai",
+      "city": "Surat",
+      "occupation": "Housewife"
+    },
+    {
+      "name": "Priyanka Jerajbhai",
+      "father": "Jerajbhai Laxmanbhai",
+      "city": "Surat",
+      "occupation": "Housewife"
+    },
+    {
+      "name": "Jignesh Jerajbhai",
+      "father": "Jerajbhai Laxmanbhai",
+      "city": "Surat",
+      "occupation": "IT"
+    },
+    {
+      "name": "Maheshbhai Laxmanbhai",
+      "father": "Laxmanbhai Laljibhai",
+      "spouse": "Varshaben",
+      "number": 9998821877,
+      "city": "Surat",
+      "occupation": "Engineer"
+    },
+    {
+      "name": "Rajvi Maheshbhai",
+      "father": "Maheshbhai Laxmanbhai",
+      "city": "Canada",
+      "occupation": "Student"
+    },
+    {
+      "name": "Pratham Maheshbhai",
+      "father": "Maheshbhai Laxmanbhai",
+      "city": "Surat",
+      "occupation": "Student"
+    },
+    {
+      "name": "Nareshbhai Laxmanbhai",
+      "father": "Laxmanbhai Laljibhai",
+      "spouse": "Minaben",
+      "number": 9725049910,
+      "city": "Bhavnagar",
+      "occupation": "Diamond"
+    },
+    {
+      "name": "Charmi Nareshbhai",
+      "father": "Nareshbhai Laxmanbhai",
+      "city": "Bhavnagar",
+      "occupation": "Student"
+    },
+    {
+      "name": "Aesha Nareshbhai",
+      "father": "Nareshbhai Laxmanbhai",
+      "city": "Bhavnagar",
+      "occupation": "Student"
+    },
+    {
+      "name": "Netr Nareshbhai",
+      "father": "Nareshbhai Laxmanbhai",
+      "city": "Bhavnagar",
+      "occupation": "Student"
+    },
+    {
+      "name": "Labhubhai Laljibhai",
+      "father": "Laljibhai Bhavanbhai",
+      "spouse": "Devkuvarben"
+    },
+    {
+      "name": "Kishorbhai Labhubhai",
+      "father": "Labhubhai Laljibhai",
+      "spouse": "Mamtaben",
+      "number": 9924034833,
+      "city": "Rananpar",
+      "occupation": "Farmer"
+    },
+    {
+      "name": "Nency Kishorbhai",
+      "father": "Kishorbhai Labhubhai",
+      "city": "Surat",
+      "occupation": "Housewife"
+    },
+    {
+      "name": "Purvita Kishorbhai",
+      "father": "Kishorbhai Labhubhai",
+      "city": "Surat",
+      "occupation": "Student"
+    },
+    {
+      "name": "Jay Kishorbhai",
+      "father": "Kishorbhai Labhubhai",
+      "city": "Surat",
+      "occupation": "Diamond"
+    },
+    {
+      "name": "Jagdishbhai Labhubhai",
+      "father": "Labhubhai Laljibhai",
+      "spouse": "Asmitaben",
+      "number": 9824287438,
+      "city": "Surat",
+      "occupation": "Diamond"
+    },
+    {
+      "name": "Vrushti Jagdishbhai",
+      "father": "Jagdishbhai Labhubhai",
+      "city": "Surat",
+      "occupation": "Job in CA company"
+    },
+    {
+      "name": "Jeel Jagdishbhai",
+      "father": "Jagdishbhai Labhubhai",
+      "city": "Surat",
+      "occupation": "IT"
+    },
+    {
+      "name": "Pareshbhai Labhubhai",
+      "father": "Labhubhai Laljibhai",
+      "spouse": "Shobhnaben",
+      "number": 9924882011,
+      "city": "Surat",
+      "occupation": "Diamond"
+    },
+    {
+      "name": "Prince Pareshbhai",
+      "father": "Pareshbhai Labhubhai",
+      "city": "Surat",
+      "occupation": "Student"
+    },
+    {
+      "name": "Krinal Pareshbhai",
+      "father": "Pareshbhai Labhubhai",
+      "city": "Surat",
+      "occupation": "Student"
+    },
+    {
+      "name": "Vinubhai Laljibhai",
+      "father": "Laljibhai Bhavanbhai",
+      "spouse": "Rekhaben",
+      "number": 9824999310,
+      "city": "Rananpar",
+      "occupation": "Farmer"
+    },
+    {
+      "name": "Dharmeshbhai Vinubhai",
+      "father": "Vinubhai Laljibhai",
+      "spouse": "Goralben",
+      "number": 9904952458,
+      "city": "Surat",
+      "occupation": "Embroidery"
+    },
+    {
+      "name": "Dhruvi Dharmeshbhai",
+      "father": "Dharmeshbhai Vinubhai",
+      "city": "Surat",
+      "occupation": "Student"
+    },
+    {
+      "name": "Prutha Dharmeshbhai",
+      "father": "Dharmeshbhai Vinubhai",
+      "city": "Surat",
+      "occupation": "Student"
+    },
+    {
+      "name": "Granth Dharmeshbhai",
+      "father": "Dharmeshbhai Vinubhai",
+      "city": "Surat",
+      "occupation": "Student"
+    },
+    {
+      "name": "Kalpeshbhai Vinubhai",
+      "father": "Vinubhai Laljibhai",
+      "number": 9824312642,
+      "city": "Rananpar",
+      "occupation": "Farmer"
+    }
+  ],
+  "Diyal Dada": [
+    {
+      "name": "Diyalbhai tejaniparivar",
+      "father": "tejaniparivar tejaniparivar"
+    },
+    {
+      "name": "Devashibhai Diyalbhai Tejani",
+      "father": "Diyalbhai tejaniparivar"
+    },
+    {
+      "name": "Shamjibhai Devashibhai Tejani",
+      "father": "Devashibhai Diyalbhai Tejani",
+      "spouse": "Ratanben Shamjibhai Tejani"
+    },
+    {
+      "name": "Dungarshibhai Shamjibhai Tejani",
+      "father": "Shamjibhai Devashibhai Tejani",
+      "spouse": "Shardaben Dungarshibhai Tejani",
+      "number": "98244 26464",
+      "city": "Chada",
+      "occupation": "Farmer"
+    },
+    {
+      "name": "Ganeshbhai Shamjibhai Tejani",
+      "father": "Shamjibhai Devashibhai Tejani",
+      "spouse": "Kailashben Ganeshbhai Tejani",
+      "number": "98797 41224",
+      "city": "Surat",
+      "occupation": "Embroidery"
+    },
+    {
+      "name": "Dineshbhai Shamjibhai Tejani",
+      "father": "Shamjibhai Devashibhai Tejani",
+      "spouse": "Hiraben Dineshbhai Tejani",
+      "number": "98258 97137",
+      "city": "Surat",
+      "occupation": "Builder"
+    },
+    {
+      "name": "Mukeshbhai Shamjibhai Tejani",
+      "father": "Shamjibhai Devashibhai Tejani",
+      "spouse": "Parulben Mukeshbhai Tejani",
+      "number": "98251 93911",
+      "city": "Surat",
+      "occupation": "Diamond Merchant"
+    },
+    {
+      "name": "Bharat Dungarshibhai Tejani",
+      "father": "Dungarshibhai Shamjibhai Tejani",
+      "spouse": "Kajal Bharat Tejani",
+      "number": "1 412 973 1187",
+      "city": "McDonald PA",
+      "occupation": "Electronics Engineer"
+    },
+    {
+      "name": "Vasant Ganeshbhai Tejani",
+      "father": "Ganeshbhai Shamjibhai Tejani",
+      "spouse": "Daksha Vasant Tejani",
+      "number": "99989 92064",
+      "city": "Surat",
+      "occupation": "Embroidery"
+    },
+    {
+      "name": "Dharmesh Dungarshibhai Tejani",
+      "father": "Dungarshibhai Shamjibhai Tejani",
+      "spouse": "Margi Dharmesh Tejani",
+      "number": "1 412 403 8007",
+      "city": "McDonald PA",
+      "occupation": "Store Owner"
+    },
+    {
+      "name": "Shreya Dineshbhai Tejani",
+      "father": "Dineshbhai Shamjibhai Tejani",
+      "city": "Surat",
+      "occupation": "Pursuing CA"
+    },
+    {
+      "name": "Tilak Dineshbhai Tejani",
+      "father": "Dineshbhai Shamjibhai Tejani",
+      "number": "91043 60537",
+      "city": "Surat/Bangalore",
+      "occupation": "Software Dev, Bangalore"
+    },
+    {
+      "name": "Tanvi Mukeshbhai Tejani",
+      "father": "Mukeshbhai Shamjibhai Tejani",
+      "city": "Surat",
+      "occupation": "HR Manager"
+    },
+    {
+      "name": "Janvi Mukeshbhai Tejani",
+      "father": "Mukeshbhai Shamjibhai Tejani",
+      "city": "Surat",
+      "occupation": "12th science"
+    },
+    {
+      "name": "Tejas Mukeshbhai Tejani",
+      "father": "Mukeshbhai Shamjibhai Tejani",
+      "city": "Mumbai",
+      "occupation": "Std 9th, Gurukul"
+    },
+    {
+      "name": "Nishtha Vasant Tejani",
+      "father": "Vasant Ganeshbhai Tejani",
+      "city": "Surat",
+      "occupation": "JR. KG"
+    },
+    {
+      "name": "Parth Bharat Tejani",
+      "father": "Bharat Dungarshibhai Tejani",
+      "city": "McDonald PA",
+      "occupation": "Play Group"
+    },
+    {
+      "name": "Vamika Dharmesh Tejani",
+      "father": "Dharmesh Dungarshibhai Tejani",
+      "city": "McDonald PA",
+      "occupation": "N/A"
+    },
+    {
+      "name": "Hari Bharat Tejani",
+      "father": "Bharat Dungarshibhai Tejani",
+      "city": "McDonald PA",
+      "occupation": "N/A"
+    }
+  ],
+  "Jiva Dada": [
+    {
+      "name": "Jivadada tejaniparivar",
+      "father": "tejaniparivar tejaniparivar",
+      "spouse_guj": "-",
+      "occupation": "-"
+    },
+    {
+      "name": "Jinadada Jivadada",
+      "father": "Jivadada tejaniparivar",
+      "spouse_guj": "-",
+      "occupation": "-"
+    },
+    {
+      "name": "Dhanjidada Jinadada",
+      "father": "Jinadada Jivadada",
+      "spouse": "Ujiben",
+      "spouse_guj": "-",
+      "city": "-",
+      "occupation": "-",
+      "photo": "https://drive.google.com/file/d/13LRjYaOrFp1rj3---DZ-dikqhXt_gjnB/view?usp=drive_link",
+      "spouse_photo": "https://drive.google.com/file/d/1353WADCrnJD77Y8J18kwa2LAO3Z02XzU/view?usp=drive_link"
+    },
+    {
+      "name": "Govindbhai Dhanjidada",
+      "father": "Dhanjidada Jinadada",
+      "spouse": "Santuben",
+      "spouse_guj": 9904385660,
+      "city": "Ratanpur",
+      "occupation": "Farmer",
+      "photo": "https://drive.google.com/file/d/13vIv4eZNSah6k4e8Go3MJl2QO9wOlwVH/view?usp=drive_link",
+      "spouse_photo": "https://drive.google.com/file/d/14P2LmkHjgMyI1sTDdyvC2n08dIN_un2F/view?usp=drive_link"
+    },
+    {
+      "name": "Jagdishbhai Govindbhai",
+      "father": "Govindbhai Dhanjidada",
+      "spouse": "Rekhaben",
+      "spouse_guj": 9925705758,
+      "city": "Surat",
+      "occupation": "Diamond",
+      "photo": "https://drive.google.com/file/d/14I8dLNiZia98ALZehJxV2lpV7usCgx9J/view?usp=drive_link",
+      "spouse_photo": "https://drive.google.com/file/d/19ROCVfu40cTzJmaRponLX2gdhkdUHXjO/view?usp=drive_link"
+    },
+    {
+      "name": "Vishva Jagdishbhai",
+      "father": "Jagdishbhai Govindbhai",
+      "spouse_guj": "-",
+      "city": "Surat",
+      "occupation": "Mehndi Artis",
+      "spouse_photo": "https://drive.google.com/file/d/19RF_pQrNHNrlQio80V65TxHiOYLEynm1/view?usp=drive_link"
+    },
+    {
+      "name": "Drimil Jagdishbhai",
+      "father": "Jagdishbhai Govindbhai",
+      "spouse_guj": 9510291885,
+      "city": "Surat",
+      "occupation": "Study",
+      "photo": "https://drive.google.com/file/d/14TO4Wzeqz21BB56LMwceqkQrtlNkgfAN/view?usp=drive_link"
+    },
+    {
+      "name": "Harjibhai Dhanjidada",
+      "father": "Dhanjidada Jinadada",
+      "spouse": "Kantaben",
+      "spouse_guj": 9429506299,
+      "city": "Ratanpur",
+      "occupation": "Farmer",
+      "photo": "https://drive.google.com/file/d/16vBIhP70Uy8pbXxcbrZRsRH2TwBGDpX0/view?usp=drive_link",
+      "spouse_photo": "https://drive.google.com/file/d/17HlfY7xj-vw6bfR0nr33ecUOnahJJ2P8/view?usp=drive_link"
+    },
+    {
+      "name": "Prakashbhai Harjibhai",
+      "father": "Harjibhai Dhanjidada",
+      "spouse": "Sonalben",
+      "spouse_guj": 9825170785,
+      "city": "Surat",
+      "occupation": "Diamond",
+      "photo": "https://drive.google.com/file/d/174XhtXX0GvVrzwF_xOvfH7dhzIBZNhwx/view?usp=drive_link",
+      "spouse_photo": "https://drive.google.com/file/d/17TUYbLu3MA4dVIlHJEc42biLuugK3aQb/view?usp=drive_link"
+    },
+    {
+      "name": "Digat Prakashbhai",
+      "father": "Prakashbhai Harjibhai",
+      "spouse_guj": 9510825170,
+      "city": "Surat",
+      "occupation": "Diamond",
+      "photo": "https://drive.google.com/file/d/16v7bk3eVdKM3br7oo675rrNM4uSQvzX5/view?usp=drive_link"
+    },
+    {
+      "name": "Rakshit Prakashbhai",
+      "father": "Prakashbhai Harjibhai",
+      "spouse_guj": 8155862327,
+      "city": "Surat",
+      "occupation": "Study",
+      "photo": "https://drive.google.com/file/d/17VS_zpdUyGyyNmmNsfIkHFmZCCaCirGm/view?usp=drive_link"
+    },
+    {
+      "name": "Ravibhai Harjibhai",
+      "father": "Harjibhai Dhanjidada",
+      "spouse": "Aratiben",
+      "spouse_guj": 9819815238,
+      "city": "Mumbai",
+      "occupation": "Diamond",
+      "photo": "https://drive.google.com/file/d/17YfAVfdmjN7s2ZP_QKGaNqvmL-BzFXvP/view?usp=drive_link",
+      "spouse_photo": "https://drive.google.com/file/d/16luDf_Td1JjAEVP0i7yNwHqu0nFgOF4A/view?usp=drive_link"
+    },
+    {
+      "name": "Rudrax Ravibhai",
+      "father": "Ravibhai Harjibhai",
+      "spouse_guj": "-",
+      "city": "Mumbai",
+      "occupation": "Study",
+      "photo": "https://drive.google.com/file/d/175KzCNdOk32uaPhvKf7_V4BzEVFUkv-c/view?usp=drive_link"
+    },
+    {
+      "name": "Manjibhai Dhanjidada",
+      "father": "Dhanjidada Jinadada",
+      "spouse": "Sardaben",
+      "spouse_guj": 9429436598,
+      "city": "Surat",
+      "occupation": "Diamond",
+      "photo": "https://drive.google.com/file/d/13uT504j6tqLQUXMLL55kvT8wB5ntXyHj/view?usp=drive_link",
+      "spouse_photo": "https://drive.google.com/file/d/13NM6TAiWZiFRcArJ0dthjKw5DJqvVfbH/view?usp=drive_link"
+    },
+    {
+      "name": "Himmatbhai Manjibhai",
+      "father": "Manjibhai Dhanjidada",
+      "spouse": "Rajeshreeben",
+      "spouse_guj": 9820109089,
+      "city": "Mumbai",
+      "occupation": "Diamond",
+      "photo": "https://drive.google.com/file/d/13UYDAzTHhBTE7zsmYx6Ig1eZPtgr0Onn/view?usp=drive_link",
+      "spouse_photo": "https://drive.google.com/file/d/13UqNSOIabZ06hu2tsQBA7h5hJb6NRgRg/view?usp=drive_link"
+    },
+    {
+      "name": "Jenil Himmatbhai",
+      "father": "Himmatbhai Manjibhai",
+      "spouse_guj": 7984763276,
+      "city": "Mumbai",
+      "occupation": "Diamond",
+      "photo": "https://drive.google.com/file/d/13XzfiF0S253lCGPF2IsZSLLValj9dsLc/view?usp=drive_link"
+    },
+    {
+      "name": "Hiteshbhai Manjibhai",
+      "father": "Manjibhai Dhanjidada",
+      "spouse": "Ashaben",
+      "spouse_guj": 9879822578,
+      "city": "Surat",
+      "occupation": "Diamond",
+      "photo": "https://drive.google.com/file/d/13YTDejnsLKWNTDe66DnrW5u6oS2a_9LM/view?usp=drive_link",
+      "spouse_photo": "https://drive.google.com/file/d/13a1aofrUPWn4NOj6EbjWg8j0CefBM6S5/view?usp=drive_link"
+    },
+    {
+      "name": "Henil Hiteshbhai",
+      "father": "Hiteshbhai Manjibhai",
+      "spouse_guj": 9909840722,
+      "city": "Canada",
+      "occupation": "Management",
+      "photo": "https://drive.google.com/file/d/13dUWo0774_agkQco-Hv_pydXCx30cFFW/view?usp=drive_link"
+    },
+    {
+      "name": "Vipulbhai Manjibhai",
+      "father": "Manjibhai Dhanjidada",
+      "spouse": "Sonalben",
+      "spouse_guj": 9879848648,
+      "city": "Surat",
+      "occupation": "Diamond",
+      "photo": "https://drive.google.com/file/d/13j50alOGoCa0R3bedsPP_y66sLjIHczd/view?usp=drive_link",
+      "spouse_photo": "https://drive.google.com/file/d/13jKGyShYXfsrPPogAK1OSomA9miR1XWC/view?usp=drive_link"
+    },
+    {
+      "name": "Vraj Vipulbhai",
+      "father": "Vipulbhai Manjibhai",
+      "spouse_guj": 9016625148,
+      "city": "Surat",
+      "occupation": "Study",
+      "photo": "https://drive.google.com/file/d/13jKkYK_JsVUGCFwVBS5IjSZPEjdAyUaD/view?usp=drive_link"
+    },
+    {
+      "name": "Jas Vipulbhai",
+      "father": "Vipulbhai Manjibhai",
+      "spouse_guj": 9016603199,
+      "city": "Surat",
+      "occupation": "Study",
+      "photo": "https://drive.google.com/file/d/13rxC8MVmY7qf0iV0WEi0S4LpZZTjj2nh/view?usp=drive_link"
+    },
+    {
+      "name": "Devrajbhai Dhanjidada",
+      "father": "Dhanjidada Jinadada",
+      "spouse": "Vasantben",
+      "spouse_guj": 9824228026,
+      "city": "Surat",
+      "occupation": "Retire"
+    },
+    {
+      "name": "Mayurbhai Devrajbhai",
+      "father": "Devrajbhai Dhanjidada",
+      "spouse": "Siyaben",
+      "spouse_guj": 9974423072,
+      "city": "Surat",
+      "occupation": "Diamond",
+      "photo": "https://drive.google.com/file/d/19Mp3-_J8iulvgKZK_pvAsSGJsW2Qkffm/view?usp=drive_link"
+    },
+    {
+      "name": "Divam Mayurbhai",
+      "father": "Mayurbhai Devrajbhai",
+      "spouse_guj": "-",
+      "city": "Surat",
+      "occupation": "Study",
+      "photo": "https://drive.google.com/file/d/19JxS2TDW-XEr26Hb1utckm8jhQB7K7Oa/view?usp=drive_link"
+    },
+    {
+      "name": "Rivan Mayurbhai",
+      "father": "Mayurbhai Devrajbhai",
+      "spouse_guj": "-",
+      "city": "Surat",
+      "occupation": "J.K.G",
+      "photo": "https://drive.google.com/file/d/19LvKWSH5rzW7HMmpHSm04G1KoTjib1IL/view?usp=drive_link"
+    },
+    {
+      "name": "Jivarajbhai Dhanjidada",
+      "father": "Dhanjidada Jinadada",
+      "spouse": "Puspaben",
+      "spouse_guj": 9819653254,
+      "city": "Surat",
+      "occupation": "Textile",
+      "photo": "https://drive.google.com/file/d/135gNv3JfDB_65xGyo4R23keownwwBE-S/view?usp=drive_link",
+      "spouse_photo": "https://drive.google.com/file/d/13I72CjXw0b7wPrqM6ytqkBnB3TAVDfmg/view?usp=drive_link"
+    },
+    {
+      "name": "Krunalbhai Jivarajbhai",
+      "father": "Jivarajbhai Dhanjidada",
+      "spouse": "Krutiben",
+      "spouse_guj": 9825645691,
+      "city": "Surat",
+      "occupation": "Textile",
+      "photo": "https://drive.google.com/file/d/136V5CRqWljXlvXJQJlmlSVTUFebz6Aoz/view?usp=drive_link",
+      "spouse_photo": "https://drive.google.com/file/d/139AAKSpm_qf0lgdglVIOPQ41Bn1M--g4/view?usp=drive_link"
+    },
+    {
+      "name": "Dhiyan Krunalbhai",
+      "father": "Krunalbhai Jivarajbhai",
+      "spouse_guj": "-",
+      "city": "Surat",
+      "occupation": "1 Std",
+      "photo": "https://drive.google.com/file/d/13GuW0rfx6tRhrxmtrWz_7v4s23YCO0G-/view?usp=drive_link"
+    },
+    {
+      "name": "Rahilbhai Jivarajbhai",
+      "father": "Jivarajbhai Dhanjidada",
+      "spouse": "Vrutiben",
+      "spouse_guj": 9879695953,
+      "city": "Surat",
+      "occupation": "Textile",
+      "photo": "https://drive.google.com/file/d/139dcsmZ0pV_SjoKIL1W8KtiMEsgToxt1/view?usp=drive_link",
+      "spouse_photo": "https://drive.google.com/file/d/13G5aq7Vkop0-p6hi8oAkjlPGliT4MnxG/view?usp=drive_link"
+    },
+    {
+      "name": "Khimajidada Jinadada",
+      "father": "Jinadada Jivadada",
+      "spouse_guj": "-",
+      "city": "-",
+      "occupation": "-"
+    },
+    {
+      "name": "Dharmshibhai Khimajidada",
+      "father": "Khimajidada Jinadada",
+      "spouse": "Shantuben",
+      "spouse_guj": "-",
+      "city": "-",
+      "occupation": "-",
+      "photo": "https://drive.google.com/file/d/15PWoZpM0ynw5eKWFHivX7Ngeyv5e83dj/view?usp=drive_link",
+      "spouse_photo": "https://drive.google.com/file/d/15NKf9_ZHck_TFnpXWe9nvSlO2SxR1XPB/view?usp=drive_link"
+    },
+    {
+      "name": "Vasrambhai Dharmshibhai",
+      "father": "Dharmshibhai Khimajidada",
+      "spouse": "Vijuben",
+      "spouse_guj": 9879326015,
+      "city": "Ratanpur",
+      "occupation": "Farmer",
+      "photo": "https://drive.google.com/file/d/14U3TkB5BQR5Mr6_v-ju2RLWvSKQMPQR0/view?usp=drive_link",
+      "spouse_photo": "https://drive.google.com/file/d/16eGp4deB3eHnw0o1bXvaOFZtF_cmtj6i/view?usp=drive_link"
+    },
+    {
+      "name": "Hasmukhbhai Vasrambhai",
+      "father": "Vasrambhai Dharmshibhai",
+      "spouse": "Shobhnaben",
+      "spouse_guj": 9909973422,
+      "city": "Surat",
+      "occupation": "Diamond",
+      "photo": "https://drive.google.com/file/d/15b9Dkd_6PB-UZJ5RRGw8ZYjWixjo--Ym/view?usp=drive_link",
+      "spouse_photo": "https://drive.google.com/file/d/15DOLTJqTQ3j_dr-_CFKjKeSS_Q0dy6Pv/view?usp=drive_link"
+    },
+    {
+      "name": "Meet Hasmukhbhai",
+      "father": "Hasmukhbhai Vasrambhai",
+      "city": "Surat",
+      "occupation": "IT",
+      "photo": "https://drive.google.com/file/d/16_O33NB3yXwv0-D8sJGoVDZVxvVkYIpI/view?usp=drive_link"
+    },
+    {
+      "name": "Dharmi Hasmukhbhai",
+      "father": "Hasmukhbhai Vasrambhai",
+      "spouse_guj": "-",
+      "city": "Surat",
+      "occupation": "Study",
+      "spouse_photo": "https://drive.google.com/file/d/15Rv_2r7WrliQq_eCgzdlonIJMrPuuGjA/view?usp=drive_link"
+    },
+    {
+      "name": "Ashvinbhai Vasrambhai",
+      "father": "Vasrambhai Dharmshibhai",
+      "spouse": "Naenaben",
+      "spouse_guj": 9909435440,
+      "city": "Surat",
+      "occupation": "E-COMMERCE",
+      "photo": "https://drive.google.com/file/d/14UKUtDb4SforLB0MeGEDM7SM1QFr_Lg5/view?usp=drive_link",
+      "spouse_photo": "https://drive.google.com/file/d/14WNvKLDCDUSvsqx-atme38Qc8lKKpJwL/view?usp=drive_link"
+    },
+    {
+      "name": "Neel Ashvinbhai",
+      "father": "Ashvinbhai Vasrambhai",
+      "spouse_guj": "-",
+      "city": "Surat",
+      "occupation": "Study",
+      "photo": "https://drive.google.com/file/d/16ZBl5aG4RiVgOnyug_Aq5Nfw6fx9RUnC/view?usp=drive_link"
+    },
+    {
+      "name": "Kunj Ashvinbhai",
+      "father": "Ashvinbhai Vasrambhai",
+      "spouse_guj": "-",
+      "city": "Surat",
+      "occupation": "Study",
+      "photo": "https://drive.google.com/file/d/15HgyxIbUrfrBymvD-OjhkfACxEfNGRLX/view?usp=drive_link"
+    },
+    {
+      "name": "Krish Ashvinbhai",
+      "father": "Ashvinbhai Vasrambhai",
+      "spouse_guj": "-",
+      "city": "Surat",
+      "occupation": "Study",
+      "photo": "https://drive.google.com/file/d/15HV83rif6ax85iaULiU1VQ8UDzNMhT_3/view?usp=drive_link"
+    },
+    {
+      "name": "Bharatbhai Dharmshibhai",
+      "father": "Dharmshibhai Khimajidada",
+      "spouse": "Shobhaben",
+      "spouse_guj": 9727384618,
+      "city": "Surat",
+      "occupation": "Retire",
+      "photo": "https://drive.google.com/file/d/14nnSQkquUQSZtAQHb-jKhZ1SNBw8aX2c/view?usp=drive_link",
+      "spouse_photo": "https://drive.google.com/file/d/157opGP9qG4SHamWLbR8rNt_Oef3DZw6a/view?usp=drive_link"
+    },
+    {
+      "name": "Piyushbhai Bharatbhai",
+      "father": "Bharatbhai Dharmshibhai",
+      "spouse": "Ankitaben",
+      "spouse_guj": 9979538596,
+      "city": "Surat",
+      "occupation": "E-COMMERCE",
+      "photo": "https://drive.google.com/file/d/16YKrLvMGh-7XrkiCQZjHvnlWcGeAGsO-/view?usp=drive_link"
+    },
+    {
+      "name": "Dhayan Piyushbhai",
+      "father": "Piyushbhai Bharatbhai",
+      "spouse_guj": "-",
+      "city": "Surat",
+      "occupation": "-",
+      "photo": "https://drive.google.com/file/d/19QMSPZT_uGpMKFiGxUUtALhLXTzN79n7/view?usp=drive_link"
+    },
+    {
+      "name": "Nikunjbhai Bharatbhai",
+      "father": "Bharatbhai Dharmshibhai",
+      "spouse_guj": 7567296125,
+      "city": "Germany",
+      "occupation": "Study",
+      "photo": "https://drive.google.com/file/d/156pXuqUXNsHmgrQdsVM4dOP0RMTAC6iw/view?usp=drive_link"
+    },
+    {
+      "name": "Vinubhai Dharmshibhai",
+      "father": "Dharmshibhai Khimajidada",
+      "spouse": "Bhavuben",
+      "spouse_guj": 9925433237,
+      "city": "Surat",
+      "occupation": "Retire",
+      "photo": "https://drive.google.com/file/d/154xPtmfNtlS6XhhoakTsSX8HGZxk4rzP/view?usp=drive_link",
+      "spouse_photo": "https://drive.google.com/file/d/14oYGBIRBSCmtOEJkXtmoTxr2L0l9SGEU/view?usp=drive_link"
+    },
+    {
+      "name": "Jainik Vinubhai",
+      "father": "Vinubhai Dharmshibhai",
+      "spouse": "Drashitben",
+      "spouse_guj": 9099988043,
+      "city": "Surat",
+      "occupation": "Digital marketing",
+      "photo": "https://drive.google.com/file/d/154kolOKE8LURvsG_vxgL8UYtfIswoz-0/view?usp=drive_link",
+      "spouse_photo": "https://drive.google.com/file/d/14pSlOoi8iI2oQGhxJdDL9BymqBSDD3bd/view?usp=drive_link"
+    },
+    {
+      "name": "Hirabhai Khimajidada",
+      "father": "Khimajidada Jinadada",
+      "spouse": "Hamjuben",
+      "spouse_guj": "-",
+      "city": "-",
+      "occupation": "-",
+      "photo": "https://drive.google.com/file/d/14qRaxX0g7Vuz4WcrAiI_RqUbOSVAoMBo/view?usp=drive_link",
+      "spouse_photo": "https://drive.google.com/file/d/15y_ITTT4meZZ5zkAe4QQZHer0j0hnxGe/view?usp=drive_link"
+    },
+    {
+      "name": "Pravinbhai Hirabhai",
+      "father": "Hirabhai Khimajidada",
+      "spouse": "Hanshaben",
+      "spouse_guj": 9377726015,
+      "city": "Ahmedabad",
+      "occupation": "Diamond",
+      "photo": "https://drive.google.com/file/d/16VKGB8OqMD8vsAhgb2mG20_7NE158vBg/view?usp=drive_link",
+      "spouse_photo": "https://drive.google.com/file/d/16DycStmMSJl9wNa3XtHGF_CM1xSLzeqg/view?usp=drive_link"
+    },
+    {
+      "name": "Harshadbhai Pravinbhai",
+      "father": "Pravinbhai Hirabhai",
+      "spouse": "Jiguben",
+      "spouse_guj": 9913401813,
+      "city": "Surat",
+      "occupation": "Diamond",
+      "photo": "https://drive.google.com/file/d/15nz3oGJQYLlGbJHD5az5TQ1H5zvr60z0/view?usp=drive_link",
+      "spouse_photo": "https://drive.google.com/file/d/14qo9ifUjgZHZhgw5E25hzYAukhkHVM9P/view?usp=drive_link"
+    },
+    {
+      "name": "Hetshavi Harshadbhai",
+      "father": "Harshadbhai Pravinbhai",
+      "spouse_guj": "-",
+      "city": "Surat",
+      "occupation": "Study",
+      "spouse_photo": "https://drive.google.com/file/d/19Qyb-79xpA03DR-YV2hq7pXIvDiBaqnz/view?usp=drive_link"
+    },
+    {
+      "name": "Jaenam Harshadbhai",
+      "father": "Harshadbhai Pravinbhai",
+      "spouse_guj": "-",
+      "city": "Surat",
+      "occupation": "-",
+      "photo": "https://drive.google.com/file/d/165gkJCU8EmmeV7Fs4i1ui9UP1JZBlHmE/view?usp=drive_link"
+    },
+    {
+      "name": "Amitbhai Pravinbhai",
+      "father": "Pravinbhai Hirabhai",
+      "spouse": "Madhaviben",
+      "spouse_guj": 8690176015,
+      "city": "Surat",
+      "occupation": "Stock Market",
+      "photo": "https://drive.google.com/file/d/15BCdAY15TymY7Sr_CDbHJQIsOq-6hp7O/view?usp=drive_link",
+      "spouse_photo": "https://drive.google.com/file/d/15ScVucgW5Gfx6Hu9O6c2Rf648X5MYVSQ/view?usp=drive_link"
+    },
+    {
+      "name": "Hiyan Amitbhai",
+      "father": "Amitbhai Pravinbhai",
+      "spouse_guj": "-",
+      "city": "Surat",
+      "occupation": "-",
+      "photo": "https://drive.google.com/file/d/163IC0d85fcc8QvPN4911aMFmajmgV_uQ/view?usp=drive_link"
+    },
+    {
+      "name": "Ashokbhai Hirabhai",
+      "father": "Hirabhai Khimajidada",
+      "spouse": "Manjuben",
+      "spouse_guj": 9909973423,
+      "city": "Ahmedabad",
+      "occupation": "Diamond",
+      "photo": "https://drive.google.com/file/d/15c9h6zmvbSpH3NYaEQ_TXzSAM7Od7jD3/view?usp=drive_link",
+      "spouse_photo": "https://drive.google.com/file/d/15epabAGiKn5yv_FkolW2RgwVprRX-1Tl/view?usp=drive_link"
+    },
+    {
+      "name": "Yash Ashokbhai",
+      "father": "Ashokbhai Hirabhai",
+      "spouse_guj": 6353786004,
+      "city": "Ahmedabad",
+      "occupation": "Industrial Textile",
+      "photo": "https://drive.google.com/file/d/160k7qUvNwvBIKDbcNoooFLrMvm-mpbdT/view?usp=drive_link"
+    },
+    {
+      "name": "Yeshani Ashokbhai",
+      "father": "Ashokbhai Hirabhai",
+      "spouse_guj": "-",
+      "city": "Ahmedabad",
+      "occupation": "Study",
+      "spouse_photo": "https://drive.google.com/file/d/15gU0Y-SHVASOjIN7TZaI8jW22j9qUPc8/view?usp=drive_link"
+    },
+    {
+      "name": "Jethadada Jinadada",
+      "father": "Jinadada Jivadada"
+    },
+    {
+      "name": "Gagjibhai Jethadada",
+      "father": "Jethadada Jinadada",
+      "spouse": "Radhaben",
+      "city": "Ratanpar",
+      "occupation": "Farmer"
+    },
+    {
+      "name": "Girishbhai Gagjibhai",
+      "father": "Gagjibhai Jethadada",
+      "spouse": "Nitaben",
+      "spouse_guj": 9825723833,
+      "city": "Surat"
+    },
+    {
+      "name": "Manas Girishbhai",
+      "father": "Girishbhai Gagjibhai"
+    },
+    {
+      "name": "Mukeshbhai Gagjibhai",
+      "father": "Gagjibhai Jethadada",
+      "spouse": "Jagrutiben",
+      "spouse_guj": 9824732255,
+      "city": "Surat"
+    },
+    {
+      "name": "Parth Mukeshbhai",
+      "father": "Mukeshbhai Gagjibhai"
+    },
+    {
+      "name": "Drasti Mukeshbhai",
+      "father": "Mukeshbhai Gagjibhai",
+      "city": "-"
+    },
+    {
+      "name": "Vithalbhai Jethadada",
+      "father": "Jethadada Jinadada",
+      "spouse": "Kamlaben",
+      "city": "Ratanpar",
+      "occupation": "Retire"
+    },
+    {
+      "name": "Hareshbhai Vithalbhai",
+      "father": "Vithalbhai Jethadada",
+      "spouse": "Vaishaliben",
+      "spouse_guj": 9820910727,
+      "city": "Mumbai",
+      "occupation": "Diamond"
+    },
+    {
+      "name": "Jeet Hareshbhai",
+      "father": "Hareshbhai Vithalbhai"
+    },
+    {
+      "name": "Himmatbhai Vithalbhai",
+      "father": "Vithalbhai Jethadada",
+      "spouse": "Hetalben",
+      "spouse_guj": "\"+66 868837700\"",
+      "city": "Bangkok",
+      "occupation": "Diamond"
+    },
+    {
+      "name": "Saarth Himmatbhai",
+      "father": "Himmatbhai Vithalbhai"
+    },
+    {
+      "name": "Devrajbhai Jethadada",
+      "father": "Jethadada Jinadada",
+      "spouse": "Hansaben",
+      "city": "Ratanpur",
+      "occupation": "Farmer"
+    },
+    {
+      "name": "Sandipbhai Devrajbhai",
+      "father": "Devrajbhai Jethadada",
+      "spouse": "Ektaben",
+      "spouse_guj": 9819436738,
+      "city": "Surat"
+    },
+    {
+      "name": "Ashishbhai Devrajbhai",
+      "father": "Devrajbhai Jethadada",
+      "spouse": "Shitalben",
+      "spouse_guj": 9909095393,
+      "city": "Surat",
+      "occupation": "Diamond"
+    },
+    {
+      "name": "Savjibhai Jethadada",
+      "father": "Jethadada Jinadada",
+      "spouse": "Asmitaben",
+      "spouse_guj": 9825832935,
+      "city": "Bhavnagar",
+      "occupation": "Retire"
+    },
+    {
+      "name": "Mitulbhai Savjibhai",
+      "father": "Savjibhai Jethadada",
+      "spouse": "Bhumikaben",
+      "spouse_guj": 9723522667,
+      "city": "Bhavnagar",
+      "occupation": "Diamond"
+    },
+    {
+      "name": "Dhairya Mitulbhai",
+      "father": "Mitulbhai Savjibhai",
+      "city": "Bhavnagar",
+      "occupation": "Study"
+    },
+    {
+      "name": "Mohit Savjibhai",
+      "father": "Savjibhai Jethadada",
+      "spouse": "Bhumi",
+      "spouse_guj": 9975226978,
+      "city": "Pune",
+      "occupation": "Software Engineer"
+    }
+  ],
+  "Naran": [
+    {
+      "name": "Naranbhai tejaniparivar",
+      "father": "tejaniparivar tejaniparivar"
+    },
+    {
+      "name": "Panchabhai Naranbhai",
+      "father": "Naranbhai tejaniparivar"
+    },
+    {
+      "name": "Balabhai Panchabhai",
+      "father": "Panchabhai Naranbhai"
+    },
+    {
+      "name": "Prakashbhai Balabhai",
+      "father": "Balabhai Panchabhai",
+      "spouse": "Sangitaben",
+      "number": 9898094678,
+      "city": "Ratanpar",
+      "occupation": "Farmer"
+    },
+    {
+      "name": "Vivek Prakashbhai",
+      "father": "Prakashbhai Balabhai",
+      "city": "Surat"
+    },
+    {
+      "name": "Sanjana Prakashbhai",
+      "father": "Prakashbhai Balabhai"
+    },
+    {
+      "name": "Avinash Prakashbhai",
+      "father": "Prakashbhai Balabhai"
+    },
+    {
+      "name": "Mukeshbhai Balabhai",
+      "father": "Balabhai Panchabhai",
+      "spouse": "Varshaben",
+      "number": 9909139395,
+      "city": "Bhavnagar",
+      "occupation": "Diamond"
+    },
+    {
+      "name": "Shreya Mukeshbhai",
+      "father": "Mukeshbhai Balabhai",
+      "city": "Bhavnagar"
+    },
+    {
+      "name": "Krish Mukeshbhai",
+      "father": "Mukeshbhai Balabhai",
+      "city": "Bhavnagar"
+    },
+    {
+      "name": "Dayabhai Panchabhai",
+      "father": "Panchabhai Naranbhai"
+    },
+    {
+      "name": "Nareshbhai Dayabhai",
+      "father": "Dayabhai Panchabhai",
+      "spouse": "Shitalben",
+      "number": 9825086066,
+      "city": "Surat",
+      "occupation": "Contractor"
+    },
+    {
+      "name": "Rushi Nareshbhai",
+      "father": "Nareshbhai Dayabhai",
+      "city": "Surat"
+    },
+    {
+      "name": "Shelvi Nareshbhai",
+      "father": "Nareshbhai Dayabhai",
+      "city": "Surat"
+    },
+    {
+      "name": "Devrajbhai Dayabhai",
+      "father": "Dayabhai Panchabhai",
+      "spouse": "Snehaben",
+      "number": 9879359900,
+      "city": "Surat",
+      "occupation": "Diamond"
+    },
+    {
+      "name": "Har Devrajbhai",
+      "father": "Devrajbhai Dayabhai",
+      "city": "Surat"
+    },
+    {
+      "name": "Daksh Devrajbhai",
+      "father": "Devrajbhai Dayabhai",
+      "city": "Surat"
+    },
+    {
+      "name": "Mavjibhai Naranbhai",
+      "father": "Naranbhai tejaniparivar"
+    },
+    {
+      "name": "Hirabhai Mavjibhai",
+      "father": "Mavjibhai Naranbhai",
+      "city": "Surat"
+    },
+    {
+      "name": "Bukulbhai Hirabhai",
+      "father": "Hirabhai Mavjibhai",
+      "spouse": "Vanitaben",
+      "number": 9820169069,
+      "city": "Surat",
+      "occupation": "Looms Machine"
+    },
+    {
+      "name": "Jaimin Bukulbhai",
+      "father": "Bukulbhai Hirabhai",
+      "city": "Surat",
+      "occupation": "Job"
+    },
+    {
+      "name": "Dhruvil Bukulbhai",
+      "father": "Bukulbhai Hirabhai",
+      "city": "Surat",
+      "occupation": "Study"
+    },
+    {
+      "name": "Rajubhai Hirabhai",
+      "father": "Hirabhai Mavjibhai",
+      "spouse": "Mamtaben",
+      "number": 9824187264,
+      "city": "Surat",
+      "occupation": "Looms Machine"
+    },
+    {
+      "name": "Namra Rajubhai",
+      "father": "Rajubhai Hirabhai",
+      "city": "Surat",
+      "occupation": "Study"
+    },
+    {
+      "name": "Aastha Rajubhai",
+      "father": "Rajubhai Hirabhai",
+      "city": "Surat",
+      "occupation": "Study"
+    },
+    {
+      "name": "Pareshbhai Hirabhai",
+      "father": "Hirabhai Mavjibhai",
+      "spouse": "Asmitaben",
+      "number": 9714040400,
+      "city": "Surat",
+      "occupation": "Looms Machine"
+    },
+    {
+      "name": "Krushil Pareshbhai",
+      "father": "Pareshbhai Hirabhai",
+      "city": "Surat",
+      "occupation": "Study"
+    },
+    {
+      "name": "Nistha Pareshbhai",
+      "father": "Pareshbhai Hirabhai",
+      "city": "Surat",
+      "occupation": "Study"
+    },
+    {
+      "name": "Ramjibhai Naranbhai",
+      "father": "Naranbhai tejaniparivar"
+    },
+    {
+      "name": "Valjibhai Ramjibhai",
+      "father": "Ramjibhai Naranbhai"
+    },
+    {
+      "name": "Pravinbhai Valjibhai",
+      "father": "Valjibhai Ramjibhai",
+      "spouse": "Hinaben",
+      "number": 9825819589,
+      "city": "Surat",
+      "occupation": "Diamond"
+    },
+    {
+      "name": "Sarth Pravinbhai",
+      "father": "Pravinbhai Valjibhai",
+      "number": 9825819589,
+      "city": "Surat",
+      "occupation": "Study"
+    },
+    {
+      "name": "Manali Pravinbhai",
+      "father": "Pravinbhai Valjibhai",
+      "city": "Surat",
+      "occupation": "Job"
+    },
+    {
+      "name": "Hareshbhai Valjibhai",
+      "father": "Valjibhai Ramjibhai",
+      "spouse": "Naynaben",
+      "number": 9925816177,
+      "city": "Surat",
+      "occupation": "Diamond"
+    },
+    {
+      "name": "Yug Hareshbhai",
+      "father": "Hareshbhai Valjibhai",
+      "city": "Surat",
+      "occupation": "Study"
+    },
+    {
+      "name": "Neksha Hareshbhai",
+      "father": "Hareshbhai Valjibhai",
+      "city": "Surat",
+      "occupation": "Study"
+    },
+    {
+      "name": "Dayabhai Ramjibhai",
+      "father": "Ramjibhai Naranbhai"
+    },
+    {
+      "name": "Nileshbhai Dayabhai",
+      "father": "Dayabhai Ramjibhai",
+      "spouse": "Bhavishaben",
+      "number": 9824703788,
+      "city": "Surat",
+      "occupation": "Diamond"
+    },
+    {
+      "name": "Priyanshi Nileshbhai",
+      "father": "Nileshbhai Dayabhai",
+      "city": "Surat",
+      "occupation": "E-commerce"
+    },
+    {
+      "name": "Jash Nileshbhai",
+      "father": "Nileshbhai Dayabhai",
+      "number": 9726421821,
+      "city": "Surat",
+      "occupation": "Study"
+    },
+    {
+      "name": "Jagdishbhai Dayabhai",
+      "father": "Dayabhai Ramjibhai",
+      "spouse": "Pushpaben",
+      "number": 9624799544,
+      "city": "Surat",
+      "occupation": "Diamond"
+    },
+    {
+      "name": "Isha Jagdishbhai",
+      "father": "Jagdishbhai Dayabhai",
+      "city": "Surat",
+      "occupation": "Study"
+    },
+    {
+      "name": "Man Jagdishbhai",
+      "father": "Jagdishbhai Dayabhai",
+      "city": "Surat",
+      "occupation": "Study"
+    },
+    {
+      "name": "Gordhanbhai Ramjibhai",
+      "father": "Ramjibhai Naranbhai"
+    },
+    {
+      "name": "jayeshbhai Gordhanbhai",
+      "father": "Gordhanbhai Ramjibhai",
+      "spouse": "shitalben",
+      "number": 9979218330,
+      "city": "Surat",
+      "occupation": "E-commerce"
+    },
+    {
+      "name": "Vraj jayeshbhai",
+      "father": "jayeshbhai Gordhanbhai",
+      "city": "Surat",
+      "occupation": "study"
+    },
+    {
+      "name": "Kriva jayeshbhai",
+      "father": "jayeshbhai Gordhanbhai",
+      "city": "Surat",
+      "occupation": "Study"
+    },
+    {
+      "name": "Ashvinbhai Gordhanbhai",
+      "father": "Gordhanbhai Ramjibhai",
+      "spouse": "arunaben",
+      "number": 8140373264,
+      "city": "Surat",
+      "occupation": "Diamond"
+    },
+    {
+      "name": "Harvi Ashvinbhai",
+      "father": "Ashvinbhai Gordhanbhai",
+      "city": "Surat",
+      "occupation": "Study"
+    },
+    {
+      "name": "Shivang Ashvinbhai",
+      "father": "Ashvinbhai Gordhanbhai",
+      "city": "Surat"
+    },
+    {
+      "name": "Chhaganbhai Naranbhai",
+      "father": "Naranbhai tejaniparivar"
+    },
+    {
+      "name": "Madhavjibhai Chhaganbhai",
+      "father": "Chhaganbhai Naranbhai",
+      "spouse": "Manjulaben",
+      "number": 9909083127,
+      "city": "Ratanpar",
+      "occupation": "Farmer"
+    },
+    {
+      "name": "Dineshbhai Madhavjibhai",
+      "father": "Madhavjibhai Chhaganbhai",
+      "spouse": "Jagrutiben",
+      "number": 9925033623,
+      "city": "Surat",
+      "occupation": "Diamond"
+    },
+    {
+      "name": "Neha Dineshbhai",
+      "father": "Dineshbhai Madhavjibhai",
+      "city": "Surat"
+    },
+    {
+      "name": "Parth Dineshbhai",
+      "father": "Dineshbhai Madhavjibhai",
+      "city": "Surat"
+    },
+    {
+      "name": "Janakbhai Madhavjibhai",
+      "father": "Madhavjibhai Chhaganbhai",
+      "spouse": "Bhavanaben",
+      "number": 9824861813,
+      "city": "Surat",
+      "occupation": "Diamond"
+    },
+    {
+      "name": "Umang Janakbhai",
+      "father": "Janakbhai Madhavjibhai",
+      "number": 7285808296,
+      "city": "Surat",
+      "occupation": "E-commerce"
+    },
+    {
+      "name": "Pruthvi Janakbhai",
+      "father": "Janakbhai Madhavjibhai",
+      "city": "Surat",
+      "occupation": "Study"
+    },
+    {
+      "name": "Mira Janakbhai",
+      "father": "Janakbhai Madhavjibhai",
+      "city": "Surat",
+      "occupation": "Study"
+    },
+    {
+      "name": "Sureshbhai Madhavjibhai",
+      "father": "Madhavjibhai Chhaganbhai",
+      "spouse": "Kajalben",
+      "number": 9978913713,
+      "city": "Surat",
+      "occupation": "Diamond"
+    },
+    {
+      "name": "Pari Sureshbhai",
+      "father": "Sureshbhai Madhavjibhai",
+      "city": "Surat",
+      "occupation": "Study"
+    },
+    {
+      "name": "Disha Sureshbhai",
+      "father": "Sureshbhai Madhavjibhai",
+      "city": "Surat",
+      "occupation": "Study"
+    }
+  ],
+  "Raiya Dada": [
+    {
+      "name": "Raiyabhai tejaniparivar",
+      "father": "tejaniparivar tejaniparivar",
+      "spouse": "Potiben"
+    },
+    {
+      "name": "Mavjibhai Raiyabhai",
+      "father": "Raiyabhai tejaniparivar"
+    },
+    {
+      "name": "Manjibhai Mavjibhai",
+      "father": "Mavjibhai Raiyabhai",
+      "spouse": "Manjuben",
+      "number": 9904576740,
+      "city": "Ratanpar",
+      "occupation": "Farmer"
+    },
+    {
+      "name": "Drashti Manjibhai",
+      "father": "Manjibhai Mavjibhai",
+      "spouse": "Samjuben",
+      "city": "Ratanpar"
+    },
+    {
+      "name": "Vinubhai Mavjibhai",
+      "father": "Mavjibhai Raiyabhai",
+      "spouse": "Varshaben",
+      "number": 9723730494,
+      "city": "Ratanpar",
+      "occupation": "Farmer"
+    },
+    {
+      "name": "Shaileshbhai Vinubhai",
+      "father": "Vinubhai Mavjibhai",
+      "spouse": "Manishaben",
+      "number": 9824978878,
+      "city": "surat",
+      "occupation": "Textile"
+    },
+    {
+      "name": "Kriya Shaileshbhai",
+      "father": "Shaileshbhai Vinubhai",
+      "city": "surat"
+    },
+    {
+      "name": "Manta Shaileshbhai",
+      "father": "Shaileshbhai Vinubhai",
+      "city": "surat"
+    },
+    {
+      "name": "Pradipbhai Vinubhai",
+      "father": "Vinubhai Mavjibhai",
+      "spouse": "Vivekaben",
+      "number": 9737680715,
+      "city": "surat",
+      "occupation": "Diamond"
+    },
+    {
+      "name": "Mishti Pradipbhai",
+      "father": "Pradipbhai Vinubhai",
+      "city": "surat"
+    },
+    {
+      "name": "Mishri Pradipbhai",
+      "father": "Pradipbhai Vinubhai",
+      "city": "surat"
+    },
+    {
+      "name": "KaluBhai Mavjibhai",
+      "father": "Mavjibhai Raiyabhai",
+      "spouse": "Ranjanben"
+    },
+    {
+      "name": "Ruchit KaluBhai",
+      "father": "KaluBhai Mavjibhai",
+      "number": 9067241785,
+      "city": "surat",
+      "occupation": "Chemical"
+    },
+    {
+      "name": "Laljibhai Raiyabhai",
+      "father": "Raiyabhai tejaniparivar",
+      "spouse": "Shyamuben"
+    },
+    {
+      "name": "Vallabhbhai Laljibhai",
+      "father": "Laljibhai Raiyabhai",
+      "spouse": "Devkurben",
+      "number": 9428868256,
+      "city": "surat",
+      "occupation": "Retire"
+    },
+    {
+      "name": "Rajubhai Vallabhbhai",
+      "father": "Vallabhbhai Laljibhai",
+      "spouse": "Radhikaben",
+      "number": 9898861010,
+      "city": "surat",
+      "occupation": "Builder"
+    },
+    {
+      "name": "Tirth Rajubhai",
+      "father": "Rajubhai Vallabhbhai",
+      "city": "surat"
+    },
+    {
+      "name": "Dharmi Rajubhai",
+      "father": "Rajubhai Vallabhbhai",
+      "city": "surat"
+    },
+    {
+      "name": "Dharambhai Vallabhbhai",
+      "father": "Vallabhbhai Laljibhai",
+      "spouse": "Komalben"
+    },
+    {
+      "name": "Shubh Dharambhai",
+      "father": "Dharambhai Vallabhbhai",
+      "city": "surat"
+    },
+    {
+      "name": "Sakshi Dharambhai",
+      "father": "Dharambhai Vallabhbhai",
+      "city": "surat"
+    },
+    {
+      "name": "Popatbhai Laljibhai",
+      "father": "Laljibhai Raiyabhai",
+      "spouse": "Mamtaben",
+      "number": 9924361084,
+      "city": "surat",
+      "occupation": "Retire"
+    },
+    {
+      "name": "Rakeshbhai Popatbhai",
+      "father": "Popatbhai Laljibhai",
+      "spouse": "Krishnaben",
+      "number": 9537411555,
+      "city": "surat",
+      "occupation": "Textile"
+    },
+    {
+      "name": "Harshil Rakeshbhai",
+      "father": "Rakeshbhai Popatbhai",
+      "city": "surat"
+    },
+    {
+      "name": "Swara Rakeshbhai",
+      "father": "Rakeshbhai Popatbhai",
+      "city": "surat"
+    },
+    {
+      "name": "Sanjaybhai Popatbhai",
+      "father": "Popatbhai Laljibhai",
+      "spouse": "Hardikaben",
+      "number": 9274333650,
+      "city": "surat",
+      "occupation": "Textile"
+    },
+    {
+      "name": "Kirtan Sanjaybhai",
+      "father": "Sanjaybhai Popatbhai",
+      "city": "surat"
+    },
+    {
+      "name": "Nirja Sanjaybhai",
+      "father": "Sanjaybhai Popatbhai",
+      "city": "surat"
+    },
+    {
+      "name": "Batukbhai Laljibhai",
+      "father": "Laljibhai Raiyabhai",
+      "spouse": "Nitaben",
+      "number": 7567277957,
+      "city": "surat",
+      "occupation": "Diamond"
+    },
+    {
+      "name": "Parth Batukbhai",
+      "father": "Batukbhai Laljibhai",
+      "number": 9979281421,
+      "city": "UK",
+      "occupation": "Job"
+    },
+    {
+      "name": "Karshanbhai Raiyabhai",
+      "father": "Raiyabhai tejaniparivar",
+      "spouse": "Ambaben"
+    },
+    {
+      "name": "Ravjibhai Karshanbhai",
+      "father": "Karshanbhai Raiyabhai",
+      "spouse": "Rekhaben",
+      "number": 8000631200,
+      "city": "Ratanpar",
+      "occupation": "Farmer"
+    },
+    {
+      "name": "Hiteshbhai Ravjibhai",
+      "father": "Ravjibhai Karshanbhai",
+      "spouse": "Paritaben",
+      "number": 9904375826,
+      "city": "surat",
+      "occupation": "Diamond"
+    },
+    {
+      "name": "Ishika Hiteshbhai",
+      "father": "Hiteshbhai Ravjibhai",
+      "city": "surat"
+    },
+    {
+      "name": "Priyam Hiteshbhai",
+      "father": "Hiteshbhai Ravjibhai",
+      "city": "surat"
+    },
+    {
+      "name": "Tusharbhai Ravjibhai",
+      "father": "Ravjibhai Karshanbhai",
+      "spouse": "Dharmishthaben",
+      "number": 7383837820,
+      "city": "surat",
+      "occupation": "Diamond"
+    },
+    {
+      "name": "Shreeja Tusharbhai",
+      "father": "Tusharbhai Ravjibhai",
+      "city": "surat"
+    },
+    {
+      "name": "Harjibhai Karshanbhai",
+      "father": "Karshanbhai Raiyabhai",
+      "spouse": "Hiraben"
+    },
+    {
+      "name": "Sandeepbhai Harjibhai",
+      "father": "Harjibhai Karshanbhai",
+      "spouse": "Hiralben",
+      "number": 9909499544,
+      "city": "surat",
+      "occupation": "E-commerce"
+    },
+    {
+      "name": "Zeel Sandeepbhai",
+      "father": "Sandeepbhai Harjibhai",
+      "city": "surat"
+    },
+    {
+      "name": "Hitarth Sandeepbhai",
+      "father": "Sandeepbhai Harjibhai",
+      "city": "surat"
+    },
+    {
+      "name": "Ankitbhai Harjibhai",
+      "father": "Harjibhai Karshanbhai",
+      "spouse": "Priyankaben",
+      "number": 14127734412,
+      "city": "USA",
+      "occupation": "Designer"
+    },
+    {
+      "name": "Mahi Ankitbhai",
+      "father": "Ankitbhai Harjibhai",
+      "city": "USA"
+    },
+    {
+      "name": "Babubhai Karshanbhai",
+      "father": "Karshanbhai Raiyabhai"
+    },
+    {
+      "name": "Ashokbhai Karshanbhai",
+      "father": "Karshanbhai Raiyabhai",
+      "spouse": "Shardaben",
+      "number": 9825783422,
+      "city": "Surat",
+      "occupation": "Builder"
+    },
+    {
+      "name": "Yash Ashokbhai",
+      "father": "Ashokbhai Karshanbhai",
+      "number": 8140252419,
+      "city": "Surat",
+      "occupation": "Study"
+    },
+    {
+      "name": "Khimjibhai Raiyabhai",
+      "father": "Raiyabhai tejaniparivar",
+      "spouse": "Jiviben"
+    },
+    {
+      "name": "Damjibhai Khimjibhai",
+      "father": "Khimjibhai Raiyabhai",
+      "spouse": "Kailasben",
+      "number": 9638116730,
+      "city": "Ratanpar",
+      "occupation": "Farmer"
+    },
+    {
+      "name": "Ravibhai Damjibhai",
+      "father": "Damjibhai Khimjibhai",
+      "spouse": "Bhumiben",
+      "number": 9726801249,
+      "city": "Surat",
+      "occupation": "Diamond"
+    },
+    {
+      "name": "Dhruv Ravibhai",
+      "father": "Ravibhai Damjibhai",
+      "city": "Surat"
+    },
+    {
+      "name": "Harsh Ravibhai",
+      "father": "Ravibhai Damjibhai",
+      "city": "Surat"
+    },
+    {
+      "name": "Himmatbhai Khimjibhai",
+      "father": "Khimjibhai Raiyabhai",
+      "city": "Ratanpar"
+    },
+    {
+      "name": "Labhubhai Khimjibhai",
+      "father": "Khimjibhai Raiyabhai",
+      "spouse": "Madhuben",
+      "number": 9925541626,
+      "city": "Surat",
+      "occupation": "Diamond"
+    },
+    {
+      "name": "Ashish Labhubhai",
+      "father": "Labhubhai Khimjibhai",
+      "spouse": "Rachnaben",
+      "number": 9033201748,
+      "city": "Surat",
+      "occupation": "Software"
+    },
+    {
+      "name": "Hasti Labhubhai",
+      "father": "Labhubhai Khimjibhai",
+      "city": "Surat"
+    },
+    {
+      "name": "Rinkal Labhubhai",
+      "father": "Labhubhai Khimjibhai",
+      "city": "Surat"
+    },
+    {
+      "name": "Brijesh Labhubhai",
+      "father": "Labhubhai Khimjibhai",
+      "number": 7041345463,
+      "city": "Surat",
+      "occupation": "Study"
+    },
+    {
+      "name": "Mohanbhai Raiyabhai",
+      "father": "Raiyabhai tejaniparivar",
+      "spouse": "Ujiben"
+    },
+    {
+      "name": "Jivrajbhai Mohanbhai",
+      "father": "Mohanbhai Raiyabhai",
+      "spouse": "Hansaben",
+      "number": 9723523466,
+      "city": "Ratanpar",
+      "occupation": "Farmer"
+    },
+    {
+      "name": "Rajubhai Jivrajbhai",
+      "father": "Jivrajbhai Mohanbhai",
+      "spouse": "Bhaktiben",
+      "number": 9723277158,
+      "city": "Surat",
+      "occupation": "Diamond"
+    },
+    {
+      "name": "Vruti Rajubhai",
+      "father": "Rajubhai Jivrajbhai",
+      "city": "Surat"
+    },
+    {
+      "name": "Mukt Rajubhai",
+      "father": "Rajubhai Jivrajbhai",
+      "city": "Surat"
+    },
+    {
+      "name": "Rahulbhai Jivrajbhai",
+      "father": "Jivrajbhai Mohanbhai",
+      "spouse": "Hetalben",
+      "number": 8866048803,
+      "city": "Surat",
+      "occupation": "Diamond"
+    },
+    {
+      "name": "Siya Rahulbhai",
+      "father": "Rahulbhai Jivrajbhai",
+      "city": "Surat"
+    },
+    {
+      "name": "Pravinbhai Mohanbhai",
+      "father": "Mohanbhai Raiyabhai",
+      "spouse": "Gitaben",
+      "number": 9979214039,
+      "city": "Ratanpar",
+      "occupation": "Farmer"
+    },
+    {
+      "name": "Jigneshbhai Pravinbhai",
+      "father": "Pravinbhai Mohanbhai",
+      "spouse": "Goralben",
+      "number": 9337200988,
+      "city": "Surat",
+      "occupation": "Diamond"
+    },
+    {
+      "name": "Maan Jigneshbhai",
+      "father": "Jigneshbhai Pravinbhai",
+      "city": "Surat"
+    },
+    {
+      "name": "Jiyan Jigneshbhai",
+      "father": "Jigneshbhai Pravinbhai",
+      "city": "Surat"
+    },
+    {
+      "name": "Hirenbhai Pravinbhai",
+      "father": "Pravinbhai Mohanbhai",
+      "spouse": "Ruchitaben",
+      "number": 9624206696,
+      "city": "Surat",
+      "occupation": "Diamond"
+    },
+    {
+      "name": "Shreeva Hirenbhai",
+      "father": "Hirenbhai Pravinbhai",
+      "city": "Surat"
+    },
+    {
+      "name": "Nanubhai Raiyabhai",
+      "father": "Raiyabhai tejaniparivar",
+      "spouse": "Champaben"
+    },
+    {
+      "name": "Ghanshyambhai Nanubhai",
+      "father": "Nanubhai Raiyabhai",
+      "spouse": "Rekhaben",
+      "number": 9924015945,
+      "city": "surat",
+      "occupation": "Diamond"
+    },
+    {
+      "name": "Jaydeepbhai Ghanshyambhai",
+      "father": "Ghanshyambhai Nanubhai",
+      "spouse": "Hetalben",
+      "number": 14125836299,
+      "city": "USA",
+      "occupation": "Retail"
+    },
+    {
+      "name": "Dhruv Jaydeepbhai",
+      "father": "Jaydeepbhai Ghanshyambhai",
+      "city": "Surat"
+    },
+    {
+      "name": "kevalbhai Ghanshyambhai",
+      "father": "Ghanshyambhai Nanubhai",
+      "spouse": "Parulben",
+      "number": 9409376073,
+      "city": "Surat",
+      "occupation": "E-commerce"
+    },
+    {
+      "name": "jwal kevalbhai",
+      "father": "kevalbhai Ghanshyambhai",
+      "city": "Surat"
+    },
+    {
+      "name": "Rameshbhai Nanubhai",
+      "father": "Nanubhai Raiyabhai",
+      "spouse": "Jayaben",
+      "number": 9978005218,
+      "city": "Surat",
+      "occupation": "Builder"
+    },
+    {
+      "name": "Rutulbhai Rameshbhai",
+      "father": "Rameshbhai Nanubhai",
+      "spouse": "Krishnaben",
+      "number": 9714232048,
+      "city": "Surat",
+      "occupation": "Glass Processor"
+    },
+    {
+      "name": "Vishalbhai Rameshbhai",
+      "father": "Rameshbhai Nanubhai",
+      "spouse": "Urviben",
+      "number": 9725156466,
+      "city": "Gandhinagar",
+      "occupation": "Home Automation"
+    },
+    {
+      "name": "Divyam Vishalbhai",
+      "father": "Vishalbhai Rameshbhai",
+      "city": "Gandhinagar"
+    },
+    {
+      "name": "Dilipbhai Nanubhai",
+      "father": "Nanubhai Raiyabhai",
+      "spouse": "Vanitaben",
+      "number": 9909139003,
+      "city": "Ratanpar",
+      "occupation": "Farmer"
+    },
+    {
+      "name": "Nemish Dilipbhai",
+      "father": "Dilipbhai Nanubhai",
+      "number": 799030702,
+      "city": "Surat",
+      "occupation": "Glass Processor"
+    },
+    {
+      "name": "Ruchita Dilipbhai",
+      "father": "Dilipbhai Nanubhai",
+      "city": "Ratanpar",
+      "occupation": "Study"
+    }
+  ],
+  "Khoda Dada": [],
+  "Harji Dada": []
+}

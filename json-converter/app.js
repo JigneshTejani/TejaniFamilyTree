@@ -1,69 +1,35 @@
-let express = require('express'),
-    app = express(),
-    bodyParser = require('body-parser'),
-    multer = require('multer'),
-    crypto = require('crypto'),
-    xlsxtojson = require('xlsx-to-json'),
-    xlstojson = require("xls-to-json");
-let fileExtension = require('file-extension');
+let express = require('express');
+let app = express();
+let bodyParser = require('body-parser');
+let fs = require('fs');
+const excelToJson = require('convert-excel-to-json');
 
 const PORT = 8080
 
 app.use(bodyParser.json());
 
-let storage = multer.diskStorage({ //multers disk storage settings
-    destination: function (req, file, cb) {
-        cb(null, './input/')
-    },
-    filename: function (req, file, cb) {
-        crypto.pseudoRandomBytes(16, function (err, raw) {
-            cb(null, raw.toString('hex') + Date.now() + '.' + fileExtension(file.mimetype));
-        });
-    }
-});
-
-let upload = multer({storage: storage}).single('file');
-
-/** Method to handle the form submit */
-app.post('/sendFile', function(req, res) {
-    let excel2json;
-    upload(req,res,function(err){
-        if(err){
-            res.json({error_code:401,err_desc:err});
-            return;
-        }
-        if(!req.file){
-            res.json({error_code:404,err_desc:"File not found!"});
-            return;
-        }
-
-        if(req.file.originalname.split('.')[req.file.originalname.split('.').length-1] === 'xlsx'){
-            excel2json = xlsxtojson;
-        } else {
-            excel2json = xlstojson;
-        }
-
-        //  code to convert excel data to json  format
-        excel2json({
-            input: req.file.path,
-            output: "output/"+Date.now()+".json", // output json
-            lowerCaseHeaders:true
-        }, function(err, result) {
-            if(err) {
-                res.json(err);
-            } else {
-                res.json(result);
-            }
-        });
-
-    })
-
-});
 // load index file to upload file on http://localhost:3000/
-app.get('/',function(req,res){
-    res.sendFile(__dirname + "/index.html");
+app.get('/', function (req, res) {
+    const result = excelToJson({
+        sourceFile: __dirname + '/jiva.xlsx',
+        header: {rows: 1}, columnToKey: {
+            A: '1', B: '2', C: '3', D: '4', E: '5',F: '6', G: '7', H: '8', I: '9'
+        }
+    })
+    res.json(result)
 });
 
-app.listen(PORT, function(){
+app.get('/final', function (req, res) {
+    const result = excelToJson({
+        sourceFile: __dirname + '/tree.xlsx',
+        header: {rows: 1}, columnToKey: {
+            A: 'name', B: 'name_guj', C: 'father', D: 'spouse', E: 'spouse_guj',
+            F: 'number', G: 'city', H: 'occupation', I: 'photo', J: 'spouse_photo'
+        }
+    })
+    res.json(result)
+});
+
+app.listen(PORT, function () {
     console.log(`Server running on port : ${PORT}`);
 });

@@ -3,10 +3,12 @@ import Tree from 'react-d3-tree';
 import {useCenteredTree} from "./useCentered";
 import treeJson from './tree.json';
 import {stratify} from 'd3-hierarchy';
+import {getConvertedTreeData} from "../helper/function";
 
 export default function OrgChartTree() {
     const [dimensions, translate, containerRef] = useCenteredTree();
-    const familyTree = stratify().id((d) => d.name).parentId((d) => d.father)(treeJson);
+    console.log(getConvertedTreeData())
+    const familyTree = stratify().id((d) => d.name).parentId((d) => d.father)(getConvertedTreeData());
 
     return (<React.Fragment>
         <div id="treeWrapper" style={{width: '100vw', height: '100vh'}} ref={containerRef}>
@@ -19,7 +21,7 @@ export default function OrgChartTree() {
                 separation={{siblings: 1.60, nonSiblings: 1.60}}
                 nodeSize={{x: 200, y: 300}}
                 renderCustomNodeElement={(treeData) => <RenderCard data={{...treeData}}/>}
-                initialDepth={6} // for visible first one row in tree
+                initialDepth={1} // for visible first one row in tree
                 data={familyTree}
             />
         </div>
@@ -28,12 +30,10 @@ export default function OrgChartTree() {
 
 const RenderCard = React.memo(({data: {nodeDatum, toggleNode, foreignObjectProps = {}}}) => {
     const data = nodeDatum?.data
-    console.log('nodeDatum', data)
+
     const id = data?.unique_id
     const name = data?.name?.split(" ")?.[0]
     const spouse = data?.spouse?.split(" ")?.[0]
-    const late = data?.late?.trim() === 'y' || data?.late?.trim() === 'Y'
-    const spouse_late = data?.spouse_late?.trim() === 'y' || data?.spouse_late?.trim() === 'Y'
     const number = data?.number
     return (<React.Fragment>
         <foreignObject
@@ -48,12 +48,12 @@ const RenderCard = React.memo(({data: {nodeDatum, toggleNode, foreignObjectProps
                     <div className="user">
                         <div className='user-avatar'>
                             <img src="https://static.vecteezy.com/system/resources/previews/009/397/835/non_2x/man-avatar-clipart-illustration-free-png.png"/>
-                            <p>{late ? 'Late. ' : ''}{(id !== '1') ? `${name} Bhai` : data?.name}</p>
+                            <p>{(id !== '1') ? `${name} Bhai` : data?.name}</p>
                         </div>
 
                         {spouse && <div className='user-avatar'>
                             <img src="https://static.vecteezy.com/system/resources/thumbnails/018/787/001/small/avatar-job-business-woman-flat-portrait-of-woman-png.png"/>
-                            <p>{spouse_late ? 'Late. ' : ''}{spouse} Ben</p>
+                            <p>{spouse} Ben</p>
                         </div>}
                     </div>
                     {number && <div className="contact"><p>{number}</p></div>}
