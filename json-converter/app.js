@@ -2,6 +2,7 @@ let express = require('express');
 let app = express();
 let bodyParser = require('body-parser');
 let fs = require('fs');
+let path = require('path');
 const excelToJson = require('convert-excel-to-json');
 
 const PORT = 8080
@@ -27,6 +28,7 @@ app.get('/final', function (req, res) {
             F: 'number', G: 'city', H: 'occupation', I: 'photo', J: 'spouse_photo'
         }
     })
+    fs.writeFileSync(path.join(__dirname + '/../src/tree/',"newTree.json"), JSON.stringify(result))
     res.json(result)
 });
 

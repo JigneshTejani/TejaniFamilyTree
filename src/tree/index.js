@@ -45,12 +45,12 @@ const RenderCard = React.memo(({data: {nodeDatum, toggleNode, foreignObjectProps
                 <div className="card">
                     <div className="user">
                         <div className='user-avatar'>
-                            <img src="https://static.vecteezy.com/system/resources/previews/009/397/835/non_2x/man-avatar-clipart-illustration-free-png.png"/>
+                            {data.name !== "tejaniparivar tejaniparivar" && <img src={data?.photo ?? "https://static.vecteezy.com/system/resources/previews/009/397/835/non_2x/man-avatar-clipart-illustration-free-png.png"}/>}
                             <p>{(data.name === "tejaniparivar tejaniparivar") ? data?.name_guj : name}</p>
                         </div>
 
                         {spouse && <div className='user-avatar'>
-                            <img src="https://static.vecteezy.com/system/resources/thumbnails/018/787/001/small/avatar-job-business-woman-flat-portrait-of-woman-png.png"/>
+                            <img src={data?.spouse_photo ?? "https://static.vecteezy.com/system/resources/thumbnails/018/787/001/small/avatar-job-business-woman-flat-portrait-of-woman-png.png"}/>
                             <p>{spouse}</p>
                         </div>}
                     </div>
