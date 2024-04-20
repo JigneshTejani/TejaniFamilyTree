@@ -20,7 +20,7 @@ export default function OrgChartTree() {
                 separation={{siblings: 1, nonSiblings: 1.60}}
                 nodeSize={{x: 160, y: 300}}
                 renderCustomNodeElement={(treeData) => <RenderCard data={{...treeData}}/>}
-                initialDepth={1} // for visible first one row in tree
+                initialDepth={2} // for visible first one row in tree
                 data={familyTree}
             />
         </div>
