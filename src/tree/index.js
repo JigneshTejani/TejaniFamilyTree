@@ -1,7 +1,6 @@
 import React from 'react';
 import Tree from 'react-d3-tree';
 import {useCenteredTree} from "./useCentered";
-import treeJson from './tree.json';
 import {stratify} from 'd3-hierarchy';
 import {getConvertedTreeData} from "../helper/function";
 
