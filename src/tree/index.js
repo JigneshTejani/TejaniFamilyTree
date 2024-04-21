@@ -76,9 +76,9 @@ const RenderCard = React.memo(({data: {nodeDatum, toggleNode, foreignObjectProps
                         <div className="user">
                             <div className='user-avatar'>
                                 <img
-                                    src={`./TejaniFamilyTree/images/${data?.name}.png` ?? "./TejaniFamilyTree/male.png"}
+                                    src={`./images/${data?.name}.png` ?? "./male.png"}
 
-                                    onError={e => e.target.src = "./TejaniFamilyTree/male.png"}
+                                    onError={e => e.target.src = "./male.png"}
                                 />
                                 {process.env.NODE_ENV === 'development' && <button onClick={e => {
                                     e?.preventDefault()
@@ -91,8 +91,8 @@ const RenderCard = React.memo(({data: {nodeDatum, toggleNode, foreignObjectProps
 
                             {spouse && <div className='user-avatar'>
                                 <img
-                                    src={`./TejaniFamilyTree/images/${data?.spouse}.png` ?? "./TejaniFamilyTree/female.png"}
-                                    onError={e => e.target.src = "./TejaniFamilyTree/female.png"}
+                                    src={`./images/${data?.spouse}.png` ?? "./female.png"}
+                                    onError={e => e.target.src = "./female.png"}
                                 />
                                 {process.env.NODE_ENV === 'development' && <button onClick={e => {
                                     e?.preventDefault()
