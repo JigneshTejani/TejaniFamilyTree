@@ -5,6 +5,8 @@ import {stratify} from 'd3-hierarchy';
 import {getConvertedTreeData} from "../helper/function";
 import axios from 'axios';
 
+const prefix = process?.env?.NODE_ENV === 'development' ? 'TejaniFamilyTree/' : ''
+
 export default function OrgChartTree() {
     const [dimensions, translate, containerRef] = useCenteredTree();
     const familyTree = stratify().id((d) => d.name).parentId((d) => d.father)(getConvertedTreeData());
@@ -76,9 +78,9 @@ const RenderCard = React.memo(({data: {nodeDatum, toggleNode, foreignObjectProps
                         <div className="user">
                             <div className='user-avatar'>
                                 <img
-                                    src={`./images/${data?.name}.png` ?? "./male.png"}
+                                    src={`./${prefix}images/${data?.name}.png` ?? `./${prefix}male.png`}
 
-                                    onError={e => e.target.src = "./male.png"}
+                                    onError={e => e.target.src = `./${prefix}male.png`}
                                 />
                                 {process.env.NODE_ENV === 'development' && <button onClick={e => {
                                     e?.preventDefault()
@@ -91,8 +93,8 @@ const RenderCard = React.memo(({data: {nodeDatum, toggleNode, foreignObjectProps
 
                             {spouse && <div className='user-avatar'>
                                 <img
-                                    src={`./images/${data?.spouse}.png` ?? "./female.png"}
-                                    onError={e => e.target.src = "./female.png"}
+                                    src={`./${prefix}images/${data?.spouse}.png` ?? `./${prefix}female.png`}
+                                    onError={e => e.target.src = `./${prefix}female.png`}
                                 />
                                 {process.env.NODE_ENV === 'development' && <button onClick={e => {
                                     e?.preventDefault()
