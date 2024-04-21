@@ -5,7 +5,6 @@
 body {
     background-color: #90aead;
     box-sizing: border-box;
-    position: relative;
 }
 
 p {
@@ -28,8 +27,6 @@ path {
 }
 
 .root-card {
-    position: relative;
-    /*background-color: white;*/
     border-radius: 10px;
     box-shadow: 0 0 12px 0px rgba(0, 0, 0, 0.1);
     min-height: 100px;
@@ -43,7 +40,6 @@ path {
 }
 
 .card {
-    position: relative;
     background-color: #fbe9d0;
     border-radius: 10px;
     box-shadow: 0 0 12px 0px rgba(0, 0, 0, 0.1);
