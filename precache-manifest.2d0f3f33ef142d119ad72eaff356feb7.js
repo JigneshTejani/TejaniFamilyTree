@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5ea4667153e7bb1ea3aa7debfa478dc4",
+    "revision": "b7993ef8daccc1ad9b50e05770b9713c",
     "url": "/TejaniFamilyTree/index.html"
   },
   {
-    "revision": "06f73a274fc3394f9e6c",
-    "url": "/TejaniFamilyTree/static/css/main.02d4078a.chunk.css"
+    "revision": "38ac93180c0832b9f7f6",
+    "url": "/TejaniFamilyTree/static/css/main.e967fabd.chunk.css"
   },
   {
     "revision": "5bc47d72cdc865b41c06",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/TejaniFamilyTree/static/js/2.7cd996d9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "06f73a274fc3394f9e6c",
+    "revision": "38ac93180c0832b9f7f6",
     "url": "/TejaniFamilyTree/static/js/main.dbf75ede.chunk.js"
   },
   {

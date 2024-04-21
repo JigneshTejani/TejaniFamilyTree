@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/TejaniFamilyTree/precache-manifest.280ec2e2db017b88ac312e0e1d2fbffa.js"
+  "/TejaniFamilyTree/precache-manifest.2d0f3f33ef142d119ad72eaff356feb7.js"
 );
 
 self.addEventListener('message', (event) => {
