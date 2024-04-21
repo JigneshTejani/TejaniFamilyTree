@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/TejaniFamilyTree/static/css/main.02d4078a.chunk.css",
-    "main.js": "/TejaniFamilyTree/static/js/main.bba975ed.chunk.js",
-    "main.js.map": "/TejaniFamilyTree/static/js/main.bba975ed.chunk.js.map",
+    "main.js": "/TejaniFamilyTree/static/js/main.93ffa46e.chunk.js",
+    "main.js.map": "/TejaniFamilyTree/static/js/main.93ffa46e.chunk.js.map",
     "runtime-main.js": "/TejaniFamilyTree/static/js/runtime-main.f8a8150c.js",
     "runtime-main.js.map": "/TejaniFamilyTree/static/js/runtime-main.f8a8150c.js.map",
-    "static/js/2.48fedce3.chunk.js": "/TejaniFamilyTree/static/js/2.48fedce3.chunk.js",
-    "static/js/2.48fedce3.chunk.js.map": "/TejaniFamilyTree/static/js/2.48fedce3.chunk.js.map",
+    "static/js/2.7cd996d9.chunk.js": "/TejaniFamilyTree/static/js/2.7cd996d9.chunk.js",
+    "static/js/2.7cd996d9.chunk.js.map": "/TejaniFamilyTree/static/js/2.7cd996d9.chunk.js.map",
     "index.html": "/TejaniFamilyTree/index.html",
-    "precache-manifest.97bc48be0c160c3e5fa15eeb543b71ae.js": "/TejaniFamilyTree/precache-manifest.97bc48be0c160c3e5fa15eeb543b71ae.js",
+    "precache-manifest.1b4ce91aae5ad415093f0cd8f1ac51ee.js": "/TejaniFamilyTree/precache-manifest.1b4ce91aae5ad415093f0cd8f1ac51ee.js",
     "service-worker.js": "/TejaniFamilyTree/service-worker.js",
     "static/css/main.02d4078a.chunk.css.map": "/TejaniFamilyTree/static/css/main.02d4078a.chunk.css.map",
-    "static/js/2.48fedce3.chunk.js.LICENSE.txt": "/TejaniFamilyTree/static/js/2.48fedce3.chunk.js.LICENSE.txt"
+    "static/js/2.7cd996d9.chunk.js.LICENSE.txt": "/TejaniFamilyTree/static/js/2.7cd996d9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f8a8150c.js",
-    "static/js/2.48fedce3.chunk.js",
+    "static/js/2.7cd996d9.chunk.js",
     "static/css/main.02d4078a.chunk.css",
-    "static/js/main.bba975ed.chunk.js"
+    "static/js/main.93ffa46e.chunk.js"
   ]
 }
