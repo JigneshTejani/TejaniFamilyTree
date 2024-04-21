@@ -1,12 +1,12 @@
-import React from 'react';
+import React, {useState} from 'react';
 import Tree from 'react-d3-tree';
 import {useCenteredTree} from "./useCentered";
 import {stratify} from 'd3-hierarchy';
 import {getConvertedTreeData} from "../helper/function";
+import axios from 'axios';
 
 export default function OrgChartTree() {
     const [dimensions, translate, containerRef] = useCenteredTree();
-    console.log(getConvertedTreeData())
     const familyTree = stratify().id((d) => d.name).parentId((d) => d.father)(getConvertedTreeData());
 
     return (<React.Fragment>
@@ -17,22 +17,48 @@ export default function OrgChartTree() {
                 allowForeignObjects={true}
                 translate={translate}
                 dimensions={dimensions} //control the size of the tree layout
+                scaleExtent={{max: 10, min: 0.3}}
                 separation={{siblings: 1, nonSiblings: 1.60}}
                 nodeSize={{x: 160, y: 300}}
                 renderCustomNodeElement={(treeData) => <RenderCard data={{...treeData}}/>}
-                initialDepth={2} // for visible first one row in tree
+                initialDepth={1} // for visible first one row in tree
                 data={familyTree}
+                enableLegacyTransitions
             />
         </div>
     </React.Fragment>);
 }
 
 const RenderCard = React.memo(({data: {nodeDatum, toggleNode, foreignObjectProps = {}}}) => {
+    const [open, setOpen] = useState("")
     const data = nodeDatum?.data
 
     const name = data?.name_guj?.split(" ")?.[0]
     const spouse = data?.spouse_guj?.split(" ")?.[0]
     const number = data?.number
+    const onPaste = (e) => {
+        if (e.clipboardData === false) return false;
+        const items = e.clipboardData.items;
+        if (items === undefined) return false;
+
+        for (let i = 0; i < items.length; i++) {
+            // Skip content if not image
+            if (items[i].type.indexOf('image') === -1) continue;
+            if (e && e.preventDefault) e.preventDefault();
+            // Retrieve image on clipboard as blob
+            const files = items[i].getAsFile();
+            const data = new FormData()
+            data.append('file', files)
+            data.append('name', open)
+
+            axios.post('http://localhost:8080/upload', data).then(res => {
+                console.log({res})
+                setOpen('')
+            })
+        }
+        return false;
+    }
+
     return (<React.Fragment>
         <foreignObject
             {...foreignObjectProps}
@@ -41,22 +67,53 @@ const RenderCard = React.memo(({data: {nodeDatum, toggleNode, foreignObjectProps
             x="-80"
             y="-100"
         >
-            <div className="card-container" onClick={toggleNode}>
-                <div className="card">
-                    <div className="user">
-                        <div className='user-avatar'>
-                            {data.name !== "tejaniparivar tejaniparivar" && <img src={data?.photo ?? "https://static.vecteezy.com/system/resources/previews/009/397/835/non_2x/man-avatar-clipart-illustration-free-png.png"}/>}
-                            <p>{(data.name === "tejaniparivar tejaniparivar") ? data?.name_guj : name}</p>
-                        </div>
-
-                        {spouse && <div className='user-avatar'>
-                            <img src={data?.spouse_photo ?? "https://static.vecteezy.com/system/resources/thumbnails/018/787/001/small/avatar-job-business-woman-flat-portrait-of-woman-png.png"}/>
-                            <p>{spouse}</p>
-                        </div>}
+            {data?.name && <div className="card-container" onClick={toggleNode}>
+                {data.name === "tejaniparivar tejaniparivar" ? <div className="root-card">
+                        <p>{data?.name_guj}</p>
                     </div>
-                    {number && <div className="contact"><p>{number}</p></div>}
-                </div>
-            </div>
+                    :
+                    <div className="card">
+                        <div className="user">
+                            <div className='user-avatar'>
+                                <img
+                                    src={`./TejaniFamilyTree/images/${data?.name}.png` ?? "./TejaniFamilyTree/male.png"}
+
+                                    onError={e => e.target.src = "./TejaniFamilyTree/male.png"}
+                                />
+                                {process.env.NODE_ENV === 'development' && <button onClick={e => {
+                                    e?.preventDefault()
+                                    e?.stopPropagation()
+                                    setOpen(data?.name)
+                                }}>name
+                                </button>}
+                                <p>{name}</p>
+                            </div>
+
+                            {spouse && <div className='user-avatar'>
+                                <img
+                                    src={`./TejaniFamilyTree/images/${data?.spouse}.png` ?? "./TejaniFamilyTree/female.png"}
+                                    onError={e => e.target.src = "./TejaniFamilyTree/female.png"}
+                                />
+                                {process.env.NODE_ENV === 'development' && <button onClick={e => {
+                                    e?.preventDefault()
+                                    e?.stopPropagation()
+                                    setOpen(data?.spouse)
+                                }}>spouse
+                                </button>}
+                                <p>{spouse}</p>
+                            </div>}
+                        </div>
+                        {number && <div className="contact"><p>{number}</p></div>}
+                    </div>
+                }
+                {!!open?.length && <div style={{position: 'absolute', top: 0, left: '36px', height: '120px', width: '160px', backgroundColor: "white"}}>
+                    <button onClick={() => setOpen("")}>Close</button>
+                    <input type="text" onPaste={onPaste} autoFocus={true}/>
+                    {data?.photo && <a href={data?.photo} target="_blank">name</a>} <br/>
+                    {data?.spouse_photo && <a href={data?.spouse_photo} target="_blank">spouse</a>}
+                    <p>{open}</p>
+                </div>}
+            </div>}
         </foreignObject>
     </React.Fragment>);
 });

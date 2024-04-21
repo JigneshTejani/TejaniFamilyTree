@@ -1,8 +1,9 @@
+import React from "react";
 import './App.css';
 import OrgChartTree from "./tree";
-import {getJsonFromUniqueArray} from "./helper/function";
+// import {getJsonFromUniqueArray} from "./helper/function";
 
-console.log('Converted Array ====>>', getJsonFromUniqueArray())
+// console.log('Converted Array ====>>', getJsonFromUniqueArray())
 function App() {
 
     return (
